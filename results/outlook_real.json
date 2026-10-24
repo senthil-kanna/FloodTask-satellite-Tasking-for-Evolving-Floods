@@ -1,0 +1,19 @@
+{
+ "real_event_next_date": {
+  "assam2016": {
+   "n_cases": 143,
+   "lead_h_median": 456.0,
+   "iou_outlook": 0.05924685314685315,
+   "iou_persistence": 0.0358006993006993,
+   "outlook_better_share": 0.6293706293706294
+  },
+  "assam2022": {
+   "n_cases": 672,
+   "lead_h_median": 120.0,
+   "iou_outlook": 0.12209255952380953,
+   "iou_persistence": 0.10843690476190478,
+   "outlook_better_share": 0.5922619047619048
+  }
+ },
+ "note": "outlook issued from the PPO map at each pass, scored at the next reference date on reference-valid cells; persistence = the current map unchanged"
+}

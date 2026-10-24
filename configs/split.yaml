@@ -1,0 +1,8 @@
+# Split of the 25 PPO training runs between two machines (each run is independent; settings are frozen).
+# Machine A = project laptop, Machine B = second machine (friend). Each list is variant:seed.
+machine_a: [recurrent:0, feedforward:0, recurrent_noforecast:0, recurrent_unc:0, recurrent_iou:0,
+            recurrent:1, feedforward:1, recurrent_noforecast:1, recurrent_unc:1, recurrent_iou:1,
+            recurrent:2, feedforward:2]
+machine_b: [recurrent:3, feedforward:3, recurrent_noforecast:3, recurrent_unc:3, recurrent_iou:3,
+            recurrent:4, feedforward:4, recurrent_noforecast:4, recurrent_unc:4, recurrent_iou:4,
+            recurrent_noforecast:2, recurrent_unc:2, recurrent_iou:2]

@@ -1,0 +1,36 @@
+{
+  "threads": 1,
+  "device": "cpu",
+  "variants": {
+    "recurrent": {
+      "n_decisions": 752,
+      "latency_ms_mean": 5.846941755427248,
+      "latency_ms_median": 5.915450004977174,
+      "latency_ms_p95": 9.112034985446364,
+      "latency_ms_max": 23.615600017365068,
+      "plan_16_tiles_ms_mean": 93.55106808683597,
+      "n_params": 769474
+    },
+    "feedforward": {
+      "n_decisions": 752,
+      "latency_ms_mean": 5.258356515851313,
+      "latency_ms_median": 5.062100011855364,
+      "latency_ms_p95": 6.399459998647216,
+      "latency_ms_max": 15.037400007713586,
+      "plan_16_tiles_ms_mean": 84.133704253621,
+      "n_params": 308930
+    }
+  },
+  "peak_rss_mb": 477.39453125,
+  "provenance": {
+    "timestamp_utc": "2026-10-24T17:34:37Z",
+    "python": "3.12.6",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+    "numpy": "2.5.4",
+    "torch": "2.5.1+cu124",
+    "cuda": "12.4",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "git_commit": null
+  }
+}

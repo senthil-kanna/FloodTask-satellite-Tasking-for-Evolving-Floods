@@ -1,0 +1,4 @@
+recurrent seed 99: 52 iterations x 3072 steps, params 769474
+it 25/52 ret -0.228 ent 5.04 kl 0.0072 val mean IoU 0.0613 final 0.0872 (best 0.0613) 2.8 min
+it 50/52 ret -0.503 ent 4.95 kl 0.0004 val mean IoU 0.0693 final 0.0996 (best 0.0693) 5.8 min
+it 52/52 ret -0.712 ent 4.89 kl 0.0001 val mean IoU 0.0720 final 0.1046 (best 0.0720) 6.6 min

@@ -1,0 +1,94 @@
+{
+  "tag": "forecast_missing",
+  "env_kw": {},
+  "spec_kw": {
+    "n": 380,
+    "forecast_mode": "missing"
+  },
+  "baselines": [
+    "random",
+    "stalest",
+    "flooded_first",
+    "forecast",
+    "greedy_unc"
+  ],
+  "rl_variants": [
+    "recurrent",
+    "feedforward",
+    "recurrent_noforecast"
+  ],
+  "rl_seeds_found": [
+    [
+      "feedforward",
+      0
+    ],
+    [
+      "feedforward",
+      1
+    ],
+    [
+      "feedforward",
+      2
+    ],
+    [
+      "feedforward",
+      3
+    ],
+    [
+      "feedforward",
+      4
+    ],
+    [
+      "recurrent",
+      0
+    ],
+    [
+      "recurrent",
+      1
+    ],
+    [
+      "recurrent",
+      2
+    ],
+    [
+      "recurrent",
+      3
+    ],
+    [
+      "recurrent",
+      4
+    ],
+    [
+      "recurrent_noforecast",
+      0
+    ],
+    [
+      "recurrent_noforecast",
+      1
+    ],
+    [
+      "recurrent_noforecast",
+      2
+    ],
+    [
+      "recurrent_noforecast",
+      3
+    ],
+    [
+      "recurrent_noforecast",
+      4
+    ]
+  ],
+  "n_episodes": 7600,
+  "provenance": {
+    "timestamp_utc": "2026-10-24T04:34:18Z",
+    "python": "3.12.6",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+    "numpy": "2.5.4",
+    "torch": "2.5.1+cu124",
+    "cuda": "12.4",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "git_commit": null
+  }
+}

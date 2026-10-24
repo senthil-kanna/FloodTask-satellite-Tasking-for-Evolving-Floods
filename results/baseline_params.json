@@ -1,0 +1,2330 @@
+{
+  "greedy_unc": {
+    "params": {
+      "tau_h": 48,
+      "w_terrain": 2,
+      "w_flood": 0.5,
+      "w_rain": 0,
+      "w0": 0.1
+    },
+    "val_mean_iou": 0.17931762461972298,
+    "all": [
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17931762461972298
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17925754694589027
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17844978565558312
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17838279671074772
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1778529316023283
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17782531176248476
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1777814742753688
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17751656804207452
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17678784659733507
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17663823189431535
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17663587863676902
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1762843051370382
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17625170112001784
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1760367672498172
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17585807797139827
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17579644160713903
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17563190293301964
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17559947960718056
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1755993244335771
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17557705583399494
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17539427958779696
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1752912326736463
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17528600695202848
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17521520958010783
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1747213662723636
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17440176657928375
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1743488299115207
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17433392699345274
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17431238544324903
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17419105054757347
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.174171127401569
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17407966952082932
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17397456803808842
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1739399441076933
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17383840494593514
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17380942402686128
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17374587867878732
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1736391681590375
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17333706375146082
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17310560680086243
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1729680025565401
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1728339883246237
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17273984300623016
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17271331085901256
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1723586181581291
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1722758837502485
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17224717341690812
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1722212092165146
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17216749078235657
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17213198606152225
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1720676986386529
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17197886769230109
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17180247154936593
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17172889089026647
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17164431946112146
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17154962194777804
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1715380884133947
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17130681812633544
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17128899877017512
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17128350790637062
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17123085659938905
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1712239533040052
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17116217320699048
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17111205663455556
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17106994061139877
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1709643219736289
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1709277229207988
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1708949454900842
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17088003787308895
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17062728562066012
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.17045120809988346
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17029630114778563
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17021228256577134
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17019281341229175
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17012681262949014
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1701237107744565
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.17011591801795736
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16999386932240712
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16989312533668546
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1695434517535598
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1695171875233211
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1686920855678753
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16848964271077538
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1683481568949093
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1682048866071084
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16799386571821603
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16785019643293095
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1677530377517654
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16766986031865305
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16729970472932884
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16696901105421014
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16691016717616247
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16676997123532486
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1667004711672385
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16647327588177188
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16646974671936307
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16626007769355336
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16625828518106775
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16604740056530717
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16602045509223873
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.165946444023529
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16592458150330924
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16572020957164116
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16561185521278565
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16561123428606572
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16548726287062346
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16548166612195406
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16534134551232008
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16501109306550205
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16496063679168801
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16493483755366858
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16490459856477294
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16476901653121787
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1647617466591765
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.164623306853753
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16447855797650074
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16420669843840405
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16404282070016715
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1637377609857127
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16371112266865237
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16350714482571513
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16348905117965706
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1634248419465599
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16331367473607794
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16309815762245913
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16306187559075327
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16300014280106276
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16278966600457243
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.162667680643093
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16241672701387874
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16239366972633476
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16226962118500823
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16216939732865554
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16180977678283584
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16173367143342418
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16169621862985425
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16156113081713375
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16148917475826294
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16145641539095432
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16127076958336808
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1608244738888207
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16029952002177447
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16021259487523612
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16020663408224575
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.16019894514304575
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.16002105141811043
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15985293543896287
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15982018814992946
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15970377007691564
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15915377433191472
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1590554294613452
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15891448919838233
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1587546855287333
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1585836404938141
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15854282483789908
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15835427005064986
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1583441617626992
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1583390277099662
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15820443014380883
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15818371866623102
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15816730974768253
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15815894314666462
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1580540332468883
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15794411446102785
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15790301654628372
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1578704543912409
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15782200881053673
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15768440709223622
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15737279798219897
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15732713703658263
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1566285297803079
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15650102430498955
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15647020032289471
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15646150200140296
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15628178524033473
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15604444405659681
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1559853233639044
+      },
+      {
+        "params": {
+          "tau_h": 96,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15598009658799375
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15593796253086667
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15558574662731486
+      },
+      {
+        "params": {
+          "tau_h": 48,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15553037812877865
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15533129576380558
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1551475689311822
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15497809501015966
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1545033548770034
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15442687251084905
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15419480362968202
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15416571573914437
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15415502288597535
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15392628026131505
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1538432126053888
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15377394155690488
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1534493482869859
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15332832663304488
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15263234229311268
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15262290841071605
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15261336264784314
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15247281740642646
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15229676596096786
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.15213753530375196
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 0.5,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1520100626109484
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1517286532680824
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.15159637079545726
+      },
+      {
+        "params": {
+          "tau_h": 24,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1515942932201377
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1515438156750964
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 2,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1510764983206674
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.1486777556739487
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.14812635929727483
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 1,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.14730590149194617
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 1,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1470819721198485
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.14683346433830982
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.14680736421251467
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 2,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.14509880114431958
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0.5,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.1447917005910484
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.1
+        },
+        "val_mean_iou": 0.14064622802934187
+      },
+      {
+        "params": {
+          "tau_h": 12,
+          "w_terrain": 0.5,
+          "w_flood": 2,
+          "w_rain": 0,
+          "w0": 0.02
+        },
+        "val_mean_iou": 0.13881844562538306
+      }
+    ]
+  },
+  "forecast": {
+    "params": {
+      "w_susc": 0.1,
+      "w_age": 0.2
+    },
+    "val_mean_iou": 0.14025622122269665,
+    "all": [
+      {
+        "params": {
+          "w_susc": 0.1,
+          "w_age": 0.2
+        },
+        "val_mean_iou": 0.14025622122269665
+      },
+      {
+        "params": {
+          "w_susc": 0.1,
+          "w_age": 0
+        },
+        "val_mean_iou": 0.13832258778994047
+      },
+      {
+        "params": {
+          "w_susc": 0.5,
+          "w_age": 0
+        },
+        "val_mean_iou": 0.13812798610422927
+      },
+      {
+        "params": {
+          "w_susc": 0.5,
+          "w_age": 0.2
+        },
+        "val_mean_iou": 0.1333833719007652
+      },
+      {
+        "params": {
+          "w_susc": 2,
+          "w_age": 0
+        },
+        "val_mean_iou": 0.12838928018810603
+      },
+      {
+        "params": {
+          "w_susc": 2,
+          "w_age": 0.2
+        },
+        "val_mean_iou": 0.12358230164163496
+      },
+      {
+        "params": {
+          "w_susc": 0.1,
+          "w_age": 1
+        },
+        "val_mean_iou": 0.12325175367718029
+      },
+      {
+        "params": {
+          "w_susc": 0.5,
+          "w_age": 1
+        },
+        "val_mean_iou": 0.1197345461727762
+      },
+      {
+        "params": {
+          "w_susc": 2,
+          "w_age": 1
+        },
+        "val_mean_iou": 0.11806040851331856
+      }
+    ]
+  },
+  "flooded_first": {
+    "params": {
+      "w_terrain": 1,
+      "w_age": 0
+    },
+    "val_mean_iou": 0.14804113403474264,
+    "all": [
+      {
+        "params": {
+          "w_terrain": 1,
+          "w_age": 0
+        },
+        "val_mean_iou": 0.14804113403474264
+      },
+      {
+        "params": {
+          "w_terrain": 1,
+          "w_age": 0.1
+        },
+        "val_mean_iou": 0.1446223885007846
+      },
+      {
+        "params": {
+          "w_terrain": 0.3,
+          "w_age": 0.1
+        },
+        "val_mean_iou": 0.1395833016744559
+      },
+      {
+        "params": {
+          "w_terrain": 0.3,
+          "w_age": 0
+        },
+        "val_mean_iou": 0.13930605455328104
+      },
+      {
+        "params": {
+          "w_terrain": 1,
+          "w_age": 0.5
+        },
+        "val_mean_iou": 0.13526744996536508
+      },
+      {
+        "params": {
+          "w_terrain": 0.3,
+          "w_age": 0.5
+        },
+        "val_mean_iou": 0.1350873845014656
+      },
+      {
+        "params": {
+          "w_terrain": 0.1,
+          "w_age": 0.5
+        },
+        "val_mean_iou": 0.13444991492584046
+      },
+      {
+        "params": {
+          "w_terrain": 0.1,
+          "w_age": 0.1
+        },
+        "val_mean_iou": 0.13418414048659602
+      },
+      {
+        "params": {
+          "w_terrain": 0.1,
+          "w_age": 0
+        },
+        "val_mean_iou": 0.13408942676265878
+      }
+    ]
+  },
+  "n_val_episodes": 48,
+  "provenance": {
+    "timestamp_utc": "2026-10-20T10:18:34Z",
+    "python": "3.12.6",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+    "numpy": "2.5.4",
+    "torch": "2.5.1+cu124",
+    "cuda": "12.4",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "git_commit": null
+  }
+}

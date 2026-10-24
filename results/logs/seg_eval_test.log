@@ -1,0 +1,4 @@
+test 0: IoU 0.6675 P 0.754 R 0.853 Bolivia:0.687 India:0.547 Mekong:0.812
+test 1: IoU 0.6105 P 0.678 R 0.859 Bolivia:0.588 India:0.502 Mekong:0.756
+test 2: IoU 0.6784 P 0.823 R 0.795 Bolivia:0.611 India:0.540 Mekong:0.863
+test otsu: IoU 0.6497 P 0.880 R 0.713 Bolivia:0.697 India:0.529 Mekong:0.780

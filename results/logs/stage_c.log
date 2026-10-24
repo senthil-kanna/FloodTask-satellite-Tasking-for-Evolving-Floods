@@ -1,0 +1,562 @@
+﻿=== unit tests 2026-10-23T22:01:06
+...................                                                      [100%]
+============================== warnings summary ===============================
+tests/test_stats.py::test_mixed_effects_recovers_effect
+tests/test_stats.py::test_mixed_effects_recovers_effect
+tests/test_stats.py::test_mixed_effects_recovers_effect
+  C:\SEM_5_Works\RL\.venv\Lib\site-packages\statsmodels\regression\mixed_linear_model.py:2384: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+    rslt = super().fit(
+
+tests/test_stats.py::test_mixed_effects_recovers_effect
+  C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: Retrying MixedLM optimization with lbfgs
+    fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+
+tests/test_stats.py::test_mixed_effects_recovers_effect
+  C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: Retrying MixedLM optimization with cg
+    fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+
+tests/test_stats.py::test_mixed_effects_recovers_effect
+  C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: MixedLM optimization failed, trying a different optimizer may help.
+    fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+
+tests/test_stats.py::test_mixed_effects_recovers_effect
+  C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: Gradient optimization failed, |grad| = 4.652192
+    fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+
+tests/test_stats.py::test_mixed_effects_recovers_effect
+  C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter space.
+    fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+19 passed, 8 warnings in 14.33s
+=== test experiments 2026-10-23T22:01:22
+core: 6080 episodes
+ablation: 5700 episodes
+forecast_accurate: 7600 episodes
+forecast_noisy: 7600 episodes
+forecast_biased_low: 7600 episodes
+forecast_biased_high: 7600 episodes
+=== RESTART with chunked scheduler 2026-10-24T09:31:54
+=== unit tests 2026-10-24T09:31:55
+...................                                                      [100%]
+============================== warnings summary ===============================
+tests/test_stats.py::test_mixed_effects_recovers_effect
+tests/test_stats.py::test_mixed_effects_recovers_effect
+tests/test_stats.py::test_mixed_effects_recovers_effect
+  C:\SEM_5_Works\RL\.venv\Lib\site-packages\statsmodels\regression\mixed_linear_model.py:2384: ConvergenceWarning: Maximum Likelihood optimization failed to converge. Check mle_retvals
+    rslt = super().fit(
+
+tests/test_stats.py::test_mixed_effects_recovers_effect
+  C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: Retrying MixedLM optimization with lbfgs
+    fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+
+tests/test_stats.py::test_mixed_effects_recovers_effect
+  C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: Retrying MixedLM optimization with cg
+    fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+
+tests/test_stats.py::test_mixed_effects_recovers_effect
+  C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: MixedLM optimization failed, trying a different optimizer may help.
+    fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+
+tests/test_stats.py::test_mixed_effects_recovers_effect
+  C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: Gradient optimization failed, |grad| = 4.652192
+    fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+
+tests/test_stats.py::test_mixed_effects_recovers_effect
+  C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter space.
+    fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+19 passed, 8 warnings in 14.22s
+=== test experiments 2026-10-24T09:32:10
+core: already done, skipped
+ablation: already done, skipped
+forecast_accurate: already done, skipped
+forecast_noisy: already done, skipped
+forecast_biased_low: already done, skipped
+forecast_biased_high: already done, skipped
+forecast_displaced: 7600 episodes
+forecast_uninformative: 7600 episodes
+forecast_missing: 7600 episodes
+forecast_nohydro: 7600 episodes
+sensor_perfect: 6080 episodes
+sensor_degraded: 6080 episodes
+budget_8: 6080 episodes
+budget_32: 6080 episodes
+revisit_6h: 6080 episodes
+revisit_24h: 6080 episodes
+latency_1: 6080 episodes
+=== predict assam2016 2026-10-24T11:57:28
+India_01 4 dates
+India_02 8 dates
+India_03 4 dates
+India_04 4 dates
+India_06 4 dates
+India_07 8 dates
+India_08 4 dates
+India_09 4 dates
+India_11 8 dates
+India_12 4 dates
+India_13 4 dates
+India_14 4 dates
+India_15 4 dates
+India_16 8 dates
+India_17 4 dates
+India_18 8 dates
+India_19 4 dates
+India_21 4 dates
+India_22 8 dates
+India_23 4 dates
+India_24 8 dates
+India_26 8 dates
+India_28 8 dates
+India_29 4 dates
+India_32 4 dates
+India_35 4 dates
+India_39 4 dates
+India_41 8 dates
+India_43 4 dates
+India_45 4 dates
+India_53 8 dates
+India_55 8 dates
+=== replay assam2016 2026-10-24T11:59:35
+assam2016 operational done
+assam2016 missing done
+=== export RL assam2016 2026-10-24T13:52:17
+exported India_00
+exported India_01
+exported India_02
+exported India_03
+exported India_04
+exported India_06
+exported India_07
+exported India_08
+exported India_09
+exported India_11
+exported India_12
+exported India_13
+exported India_14
+exported India_15
+exported India_16
+exported India_17
+exported India_18
+exported India_19
+exported India_21
+exported India_22
+exported India_23
+exported India_24
+exported India_26
+exported India_28
+exported India_29
+exported India_32
+exported India_35
+exported India_39
+exported India_41
+exported India_43
+exported India_45
+exported India_53
+exported India_55
+=== export greedy assam2016 2026-10-24T13:53:49
+exported India_00
+exported India_01
+exported India_02
+exported India_03
+exported India_04
+exported India_06
+exported India_07
+exported India_08
+exported India_09
+exported India_11
+exported India_12
+exported India_13
+exported India_14
+exported India_15
+exported India_16
+exported India_17
+exported India_18
+exported India_19
+exported India_21
+exported India_22
+exported India_23
+exported India_24
+exported India_26
+exported India_28
+exported India_29
+exported India_32
+exported India_35
+exported India_39
+exported India_41
+exported India_43
+exported India_45
+exported India_53
+exported India_55
+=== predict assam2022 2026-10-24T13:55:01
+India_00 25 dates
+India_01 25 dates
+India_02 24 dates
+India_03 25 dates
+India_04 16 dates
+India_06 25 dates
+India_07 24 dates
+India_08 25 dates
+India_09 16 dates
+India_11 24 dates
+India_12 25 dates
+India_13 17 dates
+India_14 17 dates
+India_15 25 dates
+India_16 23 dates
+India_17 16 dates
+India_18 24 dates
+India_19 25 dates
+India_21 16 dates
+India_22 24 dates
+India_23 24 dates
+India_24 24 dates
+India_26 24 dates
+India_28 24 dates
+India_29 25 dates
+India_32 25 dates
+India_35 25 dates
+India_39 25 dates
+India_41 24 dates
+India_43 25 dates
+India_45 25 dates
+India_53 24 dates
+India_55 24 dates
+=== replay assam2022 2026-10-24T14:03:43
+assam2022 operational done
+assam2022 missing done
+=== export RL assam2022 2026-10-24T21:22:47
+exported India_00
+exported India_01
+exported India_02
+exported India_03
+exported India_04
+exported India_06
+exported India_07
+exported India_08
+exported India_09
+exported India_11
+exported India_12
+exported India_13
+exported India_14
+exported India_15
+exported India_16
+exported India_17
+exported India_18
+exported India_19
+exported India_21
+exported India_22
+exported India_23
+exported India_24
+exported India_26
+exported India_28
+exported India_29
+exported India_32
+exported India_35
+exported India_39
+exported India_41
+exported India_43
+exported India_45
+exported India_53
+exported India_55
+=== export greedy assam2022 2026-10-24T21:29:25
+exported India_00
+exported India_01
+exported India_02
+exported India_03
+exported India_04
+exported India_06
+exported India_07
+exported India_08
+exported India_09
+exported India_11
+exported India_12
+exported India_13
+exported India_14
+exported India_15
+exported India_16
+exported India_17
+exported India_18
+exported India_19
+exported India_21
+exported India_22
+exported India_23
+exported India_24
+exported India_26
+exported India_28
+exported India_29
+exported India_32
+exported India_35
+exported India_39
+exported India_41
+exported India_43
+exported India_45
+exported India_53
+exported India_55
+=== analysis 2026-10-24T21:30:44
+python.exe :   File "C:\SEM_5_Works\RL\scripts\analyze.py", line 111
+At C:\SEM_5_Works\RL\scripts\stage_c_evaluate.ps1:8 char:5
++     & $py -u @argsList *>&1 | Out-File -Append -Encoding utf8 $log
++     ~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (  File "C:\SEM_...e.py", line 111:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+    summary.append("
+                   ^
+SyntaxError: unterminated string literal (detected at line 111)
+=== manifest 2026-10-24T21:30:45
+678 files hashed
+=== analysis (rerun after fix) 2026-10-24T22:08:44
+.\.venv\Scripts\python.exe : C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the 
+boundary of the parameter space.
+At line:1 char:443
++ ... t=Get-Date; .\.venv\Scripts\python.exe -u scripts\analyze.py *>&1 | T ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\SEM_5_Works\...arameter space.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter 
+space.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter 
+space.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter 
+space.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter 
+space.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter 
+space.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\statsmodels\base\model.py:589: SingularMatrixWarning: Random effects 
+covariance is singular
+  return -self.score(params, *args) / nobs
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter 
+space.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter 
+space.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter 
+space.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter 
+space.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter 
+space.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter 
+space.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\statsmodels\base\model.py:589: SingularMatrixWarning: Random effects 
+covariance is singular
+  return -self.score(params, *args) / nobs
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\statsmodels\base\model.py:589: SingularMatrixWarning: Random effects 
+covariance is singular
+  return -self.score(params, *args) / nobs
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\statsmodels\base\model.py:589: SingularMatrixWarning: Random effects 
+covariance is singular
+  return -self.score(params, *args) / nobs
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\statsmodels\base\model.py:589: SingularMatrixWarning: Random effects 
+covariance is singular
+  return -self.score(params, *args) / nobs
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter 
+space.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\statsmodels\regression\mixed_linear_model.py:2384: ConvergenceWarning: 
+Maximum Likelihood optimization failed to converge. Check mle_retvals
+  rslt = super().fit(
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: Retrying MixedLM optimization with lbfgs
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\statsmodels\regression\mixed_linear_model.py:2384: ConvergenceWarning: 
+Maximum Likelihood optimization failed to converge. Check mle_retvals
+  rslt = super().fit(
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: Retrying MixedLM optimization with cg
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\statsmodels\regression\mixed_linear_model.py:2384: ConvergenceWarning: 
+Maximum Likelihood optimization failed to converge. Check mle_retvals
+  rslt = super().fit(
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: MixedLM optimization failed, trying a different 
+optimizer may help.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: Gradient optimization failed, |grad| = 1.096655
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+C:\SEM_5_Works\RL\floodtask\eval\stats.py:87: ConvergenceWarning: The MLE may be on the boundary of the parameter 
+space.
+  fit = smf.mixedlm(formula, d, groups=d["scene"]).fit(reml=True)
+# Results summary (auto-generated by scripts/analyze.py)
+
+## Core comparison - all_test_events
+
+| policy                   |   mean_iou_mean |   mean_iou_std |   final_iou_mean |   final_f1_mean |   final_area_bias_mean |   time_to_thresh_mean |   reached_mean |   n_episodes |
+|:-------------------------|----------------:|---------------:|-----------------:|----------------:|-----------------------:|----------------------:|---------------:|-------------:|
+| oracle                   |          0.3839 |         0.1136 |           0.4663 |          0.6244 |                 0.2265 |               10.1508 |         0.4735 |          378 |
+| ppo_feedforward          |          0.2705 |         0.1019 |           0.3553 |          0.5103 |                 2.1364 |               12.0968 |         0.1825 |          378 |
+| ppo_recurrent_noforecast |          0.2686 |         0.0992 |           0.3528 |          0.5078 |                 2.4223 |               12.1238 |         0.173  |          378 |
+| ppo_recurrent            |          0.2683 |         0.1004 |           0.3537 |          0.5087 |                 2.5587 |               12.1238 |         0.1772 |          378 |
+| ppo_recurrent_unc        |          0.2646 |         0.1024 |           0.3532 |          0.5073 |                 3.0373 |               12.1058 |         0.1862 |          378 |
+| ppo_recurrent_iou        |          0.2326 |         0.0957 |           0.3127 |          0.4617 |                 2.7925 |               12.5757 |         0.0984 |          378 |
+| greedy_unc               |          0.2254 |         0.0957 |           0.3034 |          0.4524 |                 1.3689 |               12.8254 |         0.0423 |          378 |
+| flooded_first            |          0.1833 |         0.101  |           0.2351 |          0.3647 |                 1.6837 |               12.8995 |         0.0185 |          378 |
+| forecast                 |          0.1813 |         0.0888 |           0.2365 |          0.3676 |                 2.3561 |               12.9074 |         0.0238 |          378 |
+| stalest                  |          0.1328 |         0.0615 |           0.2222 |          0.3509 |                 1.5884 |               12.9894 |         0.0079 |          378 |
+| random                   |          0.1152 |         0.0538 |           0.183  |          0.3003 |                 1.3236 |               13      |         0      |          378 |
+
+
+### Paired comparisons, primary endpoint (mean per-pass IoU), ppo_recurrent minus comparator, all_test_events
+
+| comparator | diff | 95% CI | Wilcoxon p | Holm p | d_z | seeds>0 | scenes | per-event |
+|---|---|---|---|---|---|---|---|---|
+| random | +0.1530 | [+0.1444, +0.1618] | 2.6e-17 | 1.8e-16 | 3.13 | 5/5 | 95 | Bolivia: +0.130, India: +0.143, Mekong: +0.192 |
+| stalest | +0.1353 | [+0.1272, +0.1434] | 2.6e-17 | 1.8e-16 | 2.87 | 5/5 | 95 | Bolivia: +0.111, India: +0.124, Mekong: +0.177 |
+| flooded_first | +0.0848 | [+0.0763, +0.0937] | 2.6e-17 | 1.8e-16 | 1.75 | 5/5 | 95 | Bolivia: +0.065, India: +0.076, Mekong: +0.118 |
+| forecast | +0.0869 | [+0.0793, +0.0947] | 2.6e-17 | 1.8e-16 | 2.22 | 5/5 | 95 | Bolivia: +0.086, India: +0.081, Mekong: +0.103 |
+| greedy_unc | +0.0428 | [+0.0351, +0.0505] | 7e-15 | 2.1e-14 | 1.11 | 5/5 | 95 | Bolivia: +0.058, India: +0.040, Mekong: +0.042 |
+| ppo_feedforward | -0.0022 | [-0.0043, -0.0002] | 0.0057 | 0.011 | -0.22 | 1/5 | 95 | Bolivia: -0.006, India: -0.003, Mekong: +0.001 |
+| ppo_recurrent_noforecast | -0.0003 | [-0.0029, +0.0023] | 0.4 | 0.4 | -0.03 | 3/5 | 95 | Bolivia: -0.004, India: -0.002, Mekong: +0.005 |
+
+Mixed-effects cross-check (episode-level, random intercept per scene):
+
+- vs random: +0.1550 [+0.1444, +0.1656], p=2.3e-180
+- vs stalest: +0.1375 [+0.1276, +0.1474], p=3.1e-163
+- vs flooded_first: +0.0866 [+0.0757, +0.0975], p=5.7e-55
+- vs forecast: +0.0900 [+0.0807, +0.0993], p=7.8e-80
+- vs greedy_unc: +0.0467 [+0.0374, +0.0560], p=9.1e-23
+- vs ppo_feedforward: -0.0025 [-0.0050, -0.0000], p=0.048
+- vs ppo_recurrent_noforecast: -0.0001 [-0.0033, +0.0031], p=0.96
+
+## Core comparison - India
+
+| policy                   |   mean_iou_mean |   mean_iou_std |   final_iou_mean |   final_f1_mean |   final_area_bias_mean |   time_to_thresh_mean |   reached_mean |   n_episodes |
+|:-------------------------|----------------:|---------------:|-----------------:|----------------:|-----------------------:|----------------------:|---------------:|-------------:|
+| oracle                   |          0.359  |         0.1065 |           0.4353 |          0.5971 |                -0.174  |               11.047  |         0.3462 |          234 |
+| ppo_feedforward          |          0.2512 |         0.0902 |           0.3313 |          0.4869 |                 0.1139 |               12.4598 |         0.1085 |          234 |
+| ppo_recurrent_noforecast |          0.2502 |         0.0874 |           0.3302 |          0.486  |                 0.1422 |               12.4615 |         0.106  |          234 |
+| ppo_recurrent            |          0.2486 |         0.0885 |           0.3307 |          0.4862 |                 0.117  |               12.5009 |         0.1043 |          234 |
+| ppo_recurrent_unc        |          0.2452 |         0.0911 |           0.3311 |          0.4859 |                 0.1723 |               12.4607 |         0.1128 |          234 |
+| ppo_recurrent_iou        |          0.2124 |         0.083  |           0.289  |          0.4369 |                 0.1316 |               12.8145 |         0.0462 |          234 |
+| greedy_unc               |          0.209  |         0.0857 |           0.2803 |          0.4282 |                -0.1568 |               12.9359 |         0.0128 |          234 |
+| flooded_first            |          0.1724 |         0.0931 |           0.2178 |          0.344  |                -0.0648 |               12.9872 |         0.0043 |          234 |
+| forecast                 |          0.1677 |         0.0821 |           0.2176 |          0.345  |                -0.0139 |               12.9615 |         0.0085 |          234 |
+| stalest                  |          0.1242 |         0.0576 |           0.2082 |          0.3342 |                -0.0475 |               12.9915 |         0.0043 |          234 |
+| random                   |          0.1057 |         0.0471 |           0.1722 |          0.2865 |                -0.3003 |               13      |         0      |          234 |
+
+
+### Paired comparisons, primary endpoint (mean per-pass IoU), ppo_recurrent minus comparator, India
+
+| comparator | diff | 95% CI | Wilcoxon p | Holm p | d_z | seeds>0 | scenes | per-event |
+|---|---|---|---|---|---|---|---|---|
+| random | +0.1428 | [+0.1325, +0.1531] | 2.4e-11 | 1.7e-10 | 3.49 | 5/5 | 59 | India: +0.143 |
+| stalest | +0.1243 | [+0.1148, +0.1336] | 2.4e-11 | 1.7e-10 | 3.34 | 5/5 | 59 | India: +0.124 |
+| flooded_first | +0.0761 | [+0.0672, +0.0854] | 2.4e-11 | 1.7e-10 | 2.12 | 5/5 | 59 | India: +0.076 |
+| forecast | +0.0808 | [+0.0720, +0.0897] | 2.4e-11 | 1.7e-10 | 2.33 | 5/5 | 59 | India: +0.081 |
+| greedy_unc | +0.0396 | [+0.0305, +0.0492] | 3.6e-10 | 1.1e-09 | 1.08 | 5/5 | 59 | India: +0.040 |
+| ppo_feedforward | -0.0026 | [-0.0046, -0.0008] | 0.015 | 0.03 | -0.35 | 1/5 | 59 | India: -0.003 |
+| ppo_recurrent_noforecast | -0.0017 | [-0.0044, +0.0012] | 0.16 | 0.16 | -0.15 | 1/5 | 59 | India: -0.002 |
+
+Mixed-effects cross-check (episode-level, random intercept per scene):
+
+- vs random: +0.1429 [+0.1324, +0.1533], p=2.5e-157
+- vs stalest: +0.1244 [+0.1148, +0.1339], p=3e-144
+- vs flooded_first: +0.0762 [+0.0670, +0.0854], p=1.5e-59
+- vs forecast: +0.0809 [+0.0720, +0.0898], p=7.8e-71
+- vs greedy_unc: +0.0396 [+0.0302, +0.0490], p=1.4e-16
+- vs ppo_feedforward: -0.0026 [-0.0047, -0.0004], p=0.02
+- vs ppo_recurrent_noforecast: -0.0016 [-0.0046, +0.0014], p=0.29
+
+Reward validity (test, ppo_recurrent): Spearman rho(return, mean IoU) = 0.570
+
+## Flood-size strata (tertiles of mid-episode flooded fraction)
+
+| policy          |   small |   medium |   large |
+|:----------------|--------:|---------:|--------:|
+| flooded_first   |  0.1139 |   0.1808 |  0.2554 |
+| forecast        |  0.1261 |   0.1854 |  0.2324 |
+| greedy_unc      |  0.1647 |   0.2287 |  0.2829 |
+| oracle          |  0.3133 |   0.3762 |  0.4621 |
+| ppo_feedforward |  0.1983 |   0.2751 |  0.3381 |
+| ppo_recurrent   |  0.1997 |   0.2726 |  0.3326 |
+| random          |  0.0753 |   0.1109 |  0.1595 |
+| stalest         |  0.0817 |   0.1277 |  0.1891 |
+
+
+## Robustness and generalisation conditions (mean per-pass IoU, all test scenes)
+
+|                                    |   flooded_first |   forecast |   greedy_unc |   oracle |   ppo_feedforward |   ppo_recurrent |   ppo_recurrent_noforecast |   random |   stalest |
+|:-----------------------------------|----------------:|-----------:|-------------:|---------:|------------------:|----------------:|---------------------------:|---------:|----------:|
+| budget_32                          |          0.2295 |     0.2391 |       0.2887 |   0.4135 |            0.3132 |          0.3118 |                   nan      |   0.178  |    0.2126 |
+| budget_8                           |          0.146  |     0.1281 |       0.1609 |   0.3285 |            0.2092 |          0.2055 |                   nan      |   0.0666 |    0.0741 |
+| forecast_accurate                  |          0.1833 |     0.1784 |       0.2254 | nan      |            0.2705 |          0.2684 |                     0.268  |   0.1152 |    0.1328 |
+| forecast_biased_high               |          0.1833 |     0.1801 |       0.2254 | nan      |            0.2686 |          0.2665 |                     0.268  |   0.1152 |    0.1328 |
+| forecast_biased_low                |          0.1833 |     0.1735 |       0.2254 | nan      |            0.2716 |          0.2705 |                     0.268  |   0.1152 |    0.1328 |
+| forecast_displaced                 |          0.1833 |     0.1756 |       0.2254 | nan      |            0.2708 |          0.2686 |                     0.2685 |   0.1152 |    0.1328 |
+| forecast_missing                   |          0.1833 |     0.2271 |       0.2254 | nan      |            0.2693 |          0.2625 |                     0.268  |   0.1152 |    0.1328 |
+| forecast_nohydro                   |          0.1833 |     0.1813 |       0.2254 | nan      |            0.2328 |          0.2387 |                     0.2295 |   0.1152 |    0.1328 |
+| forecast_noisy                     |          0.1833 |     0.1747 |       0.2254 | nan      |            0.2702 |          0.2681 |                     0.268  |   0.1152 |    0.1328 |
+| forecast_uninformative             |          0.1833 |     0.2142 |       0.2254 | nan      |            0.2579 |          0.253  |                     0.268  |   0.1152 |    0.1328 |
+| latency_1                          |          0.1496 |     0.1478 |       0.1663 |   0.2947 |            0.2004 |          0.1989 |                   nan      |   0.0941 |    0.1036 |
+| revisit_24h                        |          0.1675 |     0.1548 |       0.2192 |   0.3895 |            0.2638 |          0.2625 |                   nan      |   0.1099 |    0.1249 |
+| revisit_6h                         |          0.192  |     0.1937 |       0.2218 |   0.3692 |            0.2638 |          0.2616 |                   nan      |   0.1154 |    0.1336 |
+| sensor_degraded                    |          0.1238 |     0.1154 |       0.1367 |   0.2215 |            0.1537 |          0.1526 |                   nan      |   0.0701 |    0.078  |
+| sensor_perfect                     |          0.3048 |     0.315  |       0.4293 |   0.725  |            0.48   |          0.4757 |                   nan      |   0.197  |    0.2304 |
+| core (operational, K=16, 12h, L=0) |          0.1833 |     0.1813 |       0.2254 |   0.3839 |            0.2705 |          0.2683 |                   nan      |   0.1152 |    0.1328 |
+
+
+## Real-event replay: real_assam2016 (33 scenes)
+
+Forecast note: operational = ERA5 pseudo-forecast (retrospective), NOT archived NWP
+
+Hand-label check on 2016-08-12 (224793 labelled 60 m cells): reference IoU 0.337, deployed U-Net IoU 0.090
+
+|                                             |   mean_iou |   final_iou |   time_to_thresh |   n |
+|:--------------------------------------------|-----------:|------------:|-----------------:|----:|
+| ('missing', 'flooded_first')                |     0.1282 |      0.2066 |           6.3333 |  99 |
+| ('missing', 'forecast')                     |     0.1237 |      0.1849 |           6.3636 |  99 |
+| ('missing', 'greedy_unc')                   |     0.0962 |      0.135  |           6.4545 |  99 |
+| ('missing', 'ppo_feedforward')              |     0.1148 |      0.1629 |           6.3879 | 495 |
+| ('missing', 'ppo_recurrent')                |     0.1064 |      0.1418 |           6.3879 | 495 |
+| ('missing', 'ppo_recurrent_noforecast')     |     0.099  |      0.1659 |           6.4242 | 495 |
+| ('missing', 'random')                       |     0.0917 |      0.1399 |           6.4545 |  99 |
+| ('missing', 'stalest')                      |     0.1038 |      0.1634 |           6.4545 |  99 |
+| ('operational', 'flooded_first')            |     0.1282 |      0.2066 |           6.3333 |  99 |
+| ('operational', 'forecast')                 |     0.0999 |      0.1341 |           6.4545 |  99 |
+| ('operational', 'greedy_unc')               |     0.0962 |      0.135  |           6.4545 |  99 |
+| ('operational', 'ppo_feedforward')          |     0.0749 |      0.1168 |           6.396  | 495 |
+| ('operational', 'ppo_recurrent')            |     0.0771 |      0.1084 |           6.4444 | 495 |
+| ('operational', 'ppo_recurrent_noforecast') |     0.099  |      0.1659 |           6.4242 | 495 |
+| ('operational', 'random')                   |     0.0917 |      0.1399 |           6.4545 |  99 |
+| ('operational', 'stalest')                  |     0.1038 |      0.1634 |           6.4545 |  99 |
+
+
+## Real-event replay: real_assam2022 (33 scenes)
+
+Forecast note: operational = ERA5 pseudo-forecast (retrospective), NOT archived NWP
+
+|                                             |   mean_iou |   final_iou |   time_to_thresh |   n |
+|:--------------------------------------------|-----------:|------------:|-----------------:|----:|
+| ('missing', 'flooded_first')                |     0.2225 |      0.2939 |          21.1818 |  99 |
+| ('missing', 'forecast')                     |     0.2346 |      0.2839 |          20.5152 |  99 |
+| ('missing', 'greedy_unc')                   |     0.1604 |      0.1825 |          22.4242 |  99 |
+| ('missing', 'ppo_feedforward')              |     0.1711 |      0.2315 |          21.6667 | 495 |
+| ('missing', 'ppo_recurrent')                |     0.1646 |      0.2098 |          22.0182 | 495 |
+| ('missing', 'ppo_recurrent_noforecast')     |     0.1751 |      0.2598 |          21.7455 | 495 |
+| ('missing', 'random')                       |     0.1561 |      0.2432 |          23.1818 |  99 |
+| ('missing', 'stalest')                      |     0.1967 |      0.3014 |          22      |  99 |
+| ('operational', 'flooded_first')            |     0.2225 |      0.2939 |          21.1818 |  99 |
+| ('operational', 'forecast')                 |     0.1646 |      0.2057 |          22.1818 |  99 |
+| ('operational', 'greedy_unc')               |     0.1604 |      0.1825 |          22.4242 |  99 |
+| ('operational', 'ppo_feedforward')          |     0.1276 |      0.2004 |          22.6081 | 495 |
+| ('operational', 'ppo_recurrent')            |     0.1353 |      0.1944 |          22.6505 | 495 |
+| ('operational', 'ppo_recurrent_noforecast') |     0.1751 |      0.2598 |          21.7455 | 495 |
+| ('operational', 'random')                   |     0.1561 |      0.2432 |          23.1818 |  99 |
+| ('operational', 'stalest')                  |     0.1967 |      0.3014 |          22      |  99 |
+
+
+=== manifest (rerun) 2026-10-24T22:09:36
+678 files hashed

@@ -1,0 +1,38 @@
+# Data sources and event-level split. All splits are fixed BEFORE any model training.
+sen1floods11:
+  base_url: https://storage.googleapis.com/sen1floods11/v1.1
+  list_api: https://storage.googleapis.com/storage/v1/b/sen1floods11/o
+  layers: [S1Hand, S2Hand, LabelHand, S1OtsuLabelHand, JRCWaterHand]
+  catalog_prefix: catalog/sen1floods11_hand_labeled_source
+
+# Event-level split. TARGET REGION: India (Assam, Brahmaputra valley; Sen1Floods11 "India" chips,
+# 92.4-94.0 E, 25.7-27.3 N, 2016-08-12). India is the PRIMARY held-out test event, so results measure
+# transfer to an unseen Indian flood. Bolivia (official Sen1Floods11 hold-out) and Mekong are secondary test
+# events. South-Asian monsoon floods (Pakistan, Sri-Lanka) remain in training.
+# Validation events are used for checkpoint selection, calibration and baseline tuning only.
+split:
+  train: [Ghana, Paraguay, USA, Pakistan, Sri-Lanka, Spain]
+  val: [Somalia, Nigeria]
+  test: [India, Bolivia, Mekong]
+primary_test_event: India
+
+# Real multi-date replays (Sentinel-1 RTC time series, Microsoft Planetary Computer)
+real_events:
+  assam2016:
+    scene_event: India           # replay on the India test scenes (same area as the hand labels)
+    window: 2016-07-01/2016-09-30
+    label_date: "2016-08-12"     # Sen1Floods11 hand-label date: anchors a check of the reference masks
+  assam2022:
+    scene_event: India
+    window: 2022-05-15/2022-08-31
+
+copernicus_dem:
+  # GLO-30 public COGs on AWS Open Data (no account). Tile naming documented by ESA/AWS registry.
+  url_template: https://copernicus-dem-30m.s3.amazonaws.com/{name}/{name}.tif
+  name_template: Copernicus_DSM_COG_10_{ns}{lat:02d}_00_{ew}{lon:03d}_00_DEM
+
+open_meteo:
+  # ERA5-based reanalysis archive. RETROSPECTIVE data: never presented to the agent as a forecast.
+  archive_url: https://archive-api.open-meteo.com/v1/archive
+  window_days_before: 10
+  window_days_after: 10

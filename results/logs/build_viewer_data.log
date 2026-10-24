@@ -1,0 +1,28 @@
+assam2016 33 scenes
+  assam2016_ppo_recurrent: 0.36 MB
+  assam2016_greedy_unc: 0.65 MB
+  assam2016_truth: 1.00 MB
+  assam2016_outlook: 1.40 MB
+assam2022 33 scenes
+  assam2022_ppo_recurrent: 2.74 MB
+  assam2022_greedy_unc: 5.04 MB
+  assam2022_truth: 4.66 MB
+  assam2022_outlook: 5.66 MB
+sim_bolivia 13 scenes
+  sim_bolivia_ppo_recurrent: 0.94 MB
+  sim_bolivia_greedy_unc: 1.33 MB
+  sim_bolivia_truth: 0.22 MB
+  sim_bolivia_outlook: 1.15 MB
+sim_india 59 scenes
+  sim_india_ppo_recurrent: 3.46 MB
+  sim_india_greedy_unc: 4.42 MB
+  sim_india_truth: 0.78 MB
+  sim_india_outlook: 3.42 MB
+sim_mekong 23 scenes
+  sim_mekong_ppo_recurrent: 1.64 MB
+  sim_mekong_greedy_unc: 1.65 MB
+  sim_mekong_truth: 0.34 MB
+  sim_mekong_outlook: 1.41 MB
+  terrain: 3.54 MB
+scenes.json 5.662968 MB
+{'assam2016': {'n_cases': 143, 'lead_h_median': 456.0, 'iou_outlook': 0.05924685314685315, 'iou_persistence': 0.0358006993006993, 'outlook_better_share': 0.6293706293706294}, 'assam2022': {'n_cases': 672, 'lead_h_median': 120.0, 'iou_outlook': 0.12209255952380953, 'iou_persistence': 0.10843690476190478, 'outlook_better_share': 0.5922619047619048}}

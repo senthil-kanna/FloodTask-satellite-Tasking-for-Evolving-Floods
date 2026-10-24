@@ -1,0 +1,18 @@
+200 {'median_auc': 0.8090053830565187, 'n_scenes': 52, 'water_frac_among_hand0': 0.14662961551065723}
+1000 {'median_auc': 0.8185223836104454, 'n_scenes': 52, 'water_frac_among_hand0': 0.21953578336557059}
+3000 {'median_auc': 0.8150594117611454, 'n_scenes': 52, 'water_frac_among_hand0': 0.23771997656707675}
+10000 {'median_auc': 0.7906059082157784, 'n_scenes': 52, 'water_frac_among_hand0': 0.4523540774529883}
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\scipy\stats\_mannwhitneyu.py:157: RuntimeWarning: invalid value encountered in sqrt
+  s = xp.sqrt(n1*n2/12 * ((n + 1) - tie_term/(n*(n-1))))
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\scipy\stats\_mannwhitneyu.py:157: RuntimeWarning: invalid value encountered in sqrt
+  s = xp.sqrt(n1*n2/12 * ((n + 1) - tie_term/(n*(n-1))))
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\scipy\stats\_mannwhitneyu.py:157: RuntimeWarning: invalid value encountered in sqrt
+  s = xp.sqrt(n1*n2/12 * ((n + 1) - tie_term/(n*(n-1))))
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\scipy\stats\_mannwhitneyu.py:157: RuntimeWarning: invalid value encountered in sqrt
+  s = xp.sqrt(n1*n2/12 * ((n + 1) - tie_term/(n*(n-1))))
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\scipy\stats\_mannwhitneyu.py:157: RuntimeWarning: invalid value encountered in sqrt
+  s = xp.sqrt(n1*n2/12 * ((n + 1) - tie_term/(n*(n-1))))
+C:\SEM_5_Works\RL\.venv\Lib\site-packages\scipy\stats\_mannwhitneyu.py:157: RuntimeWarning: invalid value encountered in sqrt
+  s = xp.sqrt(n1*n2/12 * ((n + 1) - tie_term/(n*(n-1))))
+30000 {'median_auc': 0.5, 'n_scenes': 52, 'water_frac_among_hand0': 0.75}
+selected 1000

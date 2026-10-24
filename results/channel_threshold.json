@@ -1,0 +1,50 @@
+{
+  "channel_cells": 1000,
+  "cell_m": 60,
+  "candidates": {
+    "200": {
+      "median_auc": 0.8090053830565187,
+      "n_scenes": 52,
+      "water_frac_among_hand0": 0.14662961551065723
+    },
+    "1000": {
+      "median_auc": 0.8185223836104454,
+      "n_scenes": 52,
+      "water_frac_among_hand0": 0.21953578336557059
+    },
+    "3000": {
+      "median_auc": 0.8150594117611454,
+      "n_scenes": 52,
+      "water_frac_among_hand0": 0.23771997656707675
+    },
+    "10000": {
+      "median_auc": 0.7906059082157784,
+      "n_scenes": 52,
+      "water_frac_among_hand0": 0.4523540774529883
+    },
+    "30000": {
+      "median_auc": 0.5,
+      "n_scenes": 52,
+      "water_frac_among_hand0": 0.75
+    }
+  },
+  "events": [
+    "Ghana",
+    "Paraguay",
+    "USA",
+    "Pakistan",
+    "Sri-Lanka",
+    "Spain"
+  ],
+  "provenance": {
+    "timestamp_utc": "2026-10-20T08:57:31Z",
+    "python": "3.12.6",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+    "numpy": "2.5.4",
+    "torch": "2.5.1+cu124",
+    "cuda": "12.4",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "git_commit": null
+  }
+}

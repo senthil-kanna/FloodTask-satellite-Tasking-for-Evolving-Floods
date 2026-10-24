@@ -1,0 +1,14 @@
+{
+  "file": "docs/experimental_protocol.md",
+  "sha256": "9e02ae7cb626924d910b69f54f1a5f3259dce230046d1ba40b08ace102427216",
+  "revision": 4,
+  "timestamp_utc": "2026-10-20T11:31:59Z",
+  "python": "3.12.6",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+  "numpy": "2.5.4",
+  "torch": "2.5.1+cu124",
+  "cuda": "12.4",
+  "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+  "git_commit": null
+}

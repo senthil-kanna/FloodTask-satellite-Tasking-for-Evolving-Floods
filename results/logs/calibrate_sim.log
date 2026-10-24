@@ -1,0 +1,73 @@
+HAND-AUC Bolivia    median 0.847 over 12 scenes
+HAND-AUC Ghana      median 0.831 over 17 scenes
+HAND-AUC India      median 0.769 over 52 scenes
+HAND-AUC Mekong     median 0.910 over 20 scenes
+HAND-AUC Nigeria    median 0.912 over 14 scenes
+HAND-AUC Pakistan   median 0.795 over 17 scenes
+HAND-AUC Paraguay   median 0.832 over 37 scenes
+HAND-AUC Somalia    median 0.777 over 13 scenes
+HAND-AUC Spain      median 0.827 over 12 scenes
+HAND-AUC Sri-Lanka  median 0.829 over 28 scenes
+HAND-AUC USA        median 0.848 over 52 scenes
+ERA5 training-event 10-day totals: {'Ghana': np.float64(53.4), 'Paraguay': np.float64(95.9), 'USA': np.float64(79.0), 'Pakistan': np.float64(70.0), 'Sri-Lanka': np.float64(27.3), 'Spain': np.float64(144.0)} -> [27.3, 216.0]
+runoff x0.125 ext x0.25 loss 0mm: sim median 0.0495 vs observed 0.0136  KS 0.428
+runoff x0.125 ext x0.25 loss 5mm: sim median 0.0080 vs observed 0.0136  KS 0.183
+runoff x0.125 ext x0.25 loss 10mm: sim median 0.0000 vs observed 0.0136  KS 0.419
+runoff x0.125 ext x0.25 loss 20mm: sim median 0.0000 vs observed 0.0136  KS 0.595
+runoff x0.125 ext x0.25 loss 40mm: sim median 0.0000 vs observed 0.0136  KS 0.678
+runoff x0.125 ext x1.0 loss 0mm: sim median 0.0512 vs observed 0.0136  KS 0.428
+runoff x0.125 ext x1.0 loss 5mm: sim median 0.0135 vs observed 0.0136  KS 0.150
+runoff x0.125 ext x1.0 loss 10mm: sim median 0.0000 vs observed 0.0136  KS 0.358
+runoff x0.125 ext x1.0 loss 20mm: sim median 0.0000 vs observed 0.0136  KS 0.478
+runoff x0.125 ext x1.0 loss 40mm: sim median 0.0000 vs observed 0.0136  KS 0.611
+runoff x0.125 ext x4.0 loss 0mm: sim median 0.0590 vs observed 0.0136  KS 0.436
+runoff x0.125 ext x4.0 loss 5mm: sim median 0.0252 vs observed 0.0136  KS 0.144
+runoff x0.125 ext x4.0 loss 10mm: sim median 0.0083 vs observed 0.0136  KS 0.202
+runoff x0.125 ext x4.0 loss 20mm: sim median 0.0000 vs observed 0.0136  KS 0.328
+runoff x0.125 ext x4.0 loss 40mm: sim median 0.0000 vs observed 0.0136  KS 0.508
+runoff x0.25 ext x0.25 loss 0mm: sim median 0.0550 vs observed 0.0136  KS 0.436
+runoff x0.25 ext x0.25 loss 5mm: sim median 0.0236 vs observed 0.0136  KS 0.128
+runoff x0.25 ext x0.25 loss 10mm: sim median 0.0093 vs observed 0.0136  KS 0.183
+runoff x0.25 ext x0.25 loss 20mm: sim median 0.0000 vs observed 0.0136  KS 0.417
+runoff x0.25 ext x0.25 loss 40mm: sim median 0.0000 vs observed 0.0136  KS 0.582
+runoff x0.25 ext x1.0 loss 0mm: sim median 0.0599 vs observed 0.0136  KS 0.444
+runoff x0.25 ext x1.0 loss 5mm: sim median 0.0339 vs observed 0.0136  KS 0.190
+runoff x0.25 ext x1.0 loss 10mm: sim median 0.0159 vs observed 0.0136  KS 0.150
+runoff x0.25 ext x1.0 loss 20mm: sim median 0.0000 vs observed 0.0136  KS 0.358
+runoff x0.25 ext x1.0 loss 40mm: sim median 0.0000 vs observed 0.0136  KS 0.469
+runoff x0.25 ext x4.0 loss 0mm: sim median 0.0695 vs observed 0.0136  KS 0.450
+runoff x0.25 ext x4.0 loss 5mm: sim median 0.0457 vs observed 0.0136  KS 0.238
+runoff x0.25 ext x4.0 loss 10mm: sim median 0.0305 vs observed 0.0136  KS 0.165
+runoff x0.25 ext x4.0 loss 20mm: sim median 0.0086 vs observed 0.0136  KS 0.202
+runoff x0.25 ext x4.0 loss 40mm: sim median 0.0000 vs observed 0.0136  KS 0.325
+runoff x0.5 ext x0.25 loss 0mm: sim median 0.0665 vs observed 0.0136  KS 0.441
+runoff x0.5 ext x0.25 loss 5mm: sim median 0.0414 vs observed 0.0136  KS 0.254
+runoff x0.5 ext x0.25 loss 10mm: sim median 0.0294 vs observed 0.0136  KS 0.153
+runoff x0.5 ext x0.25 loss 20mm: sim median 0.0102 vs observed 0.0136  KS 0.175
+runoff x0.5 ext x0.25 loss 40mm: sim median 0.0000 vs observed 0.0136  KS 0.417
+runoff x0.5 ext x1.0 loss 0mm: sim median 0.0715 vs observed 0.0136  KS 0.450
+runoff x0.5 ext x1.0 loss 5mm: sim median 0.0523 vs observed 0.0136  KS 0.291
+runoff x0.5 ext x1.0 loss 10mm: sim median 0.0429 vs observed 0.0136  KS 0.211
+runoff x0.5 ext x1.0 loss 20mm: sim median 0.0202 vs observed 0.0136  KS 0.142
+runoff x0.5 ext x1.0 loss 40mm: sim median 0.0000 vs observed 0.0136  KS 0.358
+runoff x0.5 ext x4.0 loss 0mm: sim median 0.0915 vs observed 0.0136  KS 0.450
+runoff x0.5 ext x4.0 loss 5mm: sim median 0.0638 vs observed 0.0136  KS 0.315
+runoff x0.5 ext x4.0 loss 10mm: sim median 0.0552 vs observed 0.0136  KS 0.270
+runoff x0.5 ext x4.0 loss 20mm: sim median 0.0353 vs observed 0.0136  KS 0.185
+runoff x0.5 ext x4.0 loss 40mm: sim median 0.0092 vs observed 0.0136  KS 0.202
+runoff x1.0 ext x0.25 loss 0mm: sim median 0.0815 vs observed 0.0136  KS 0.470
+runoff x1.0 ext x0.25 loss 5mm: sim median 0.0679 vs observed 0.0136  KS 0.345
+runoff x1.0 ext x0.25 loss 10mm: sim median 0.0524 vs observed 0.0136  KS 0.277
+runoff x1.0 ext x0.25 loss 20mm: sim median 0.0362 vs observed 0.0136  KS 0.168
+runoff x1.0 ext x0.25 loss 40mm: sim median 0.0126 vs observed 0.0136  KS 0.175
+runoff x1.0 ext x1.0 loss 0mm: sim median 0.0913 vs observed 0.0136  KS 0.470
+runoff x1.0 ext x1.0 loss 5mm: sim median 0.0773 vs observed 0.0136  KS 0.361
+runoff x1.0 ext x1.0 loss 10mm: sim median 0.0653 vs observed 0.0136  KS 0.312
+runoff x1.0 ext x1.0 loss 20mm: sim median 0.0509 vs observed 0.0136  KS 0.244
+runoff x1.0 ext x1.0 loss 40mm: sim median 0.0214 vs observed 0.0136  KS 0.133
+runoff x1.0 ext x4.0 loss 0mm: sim median 0.1187 vs observed 0.0136  KS 0.475
+runoff x1.0 ext x4.0 loss 5mm: sim median 0.0947 vs observed 0.0136  KS 0.387
+runoff x1.0 ext x4.0 loss 10mm: sim median 0.0776 vs observed 0.0136  KS 0.328
+runoff x1.0 ext x4.0 loss 20mm: sim median 0.0699 vs observed 0.0136  KS 0.295
+runoff x1.0 ext x4.0 loss 40mm: sim median 0.0429 vs observed 0.0136  KS 0.219
+chosen runoff x0.25, ext x0.25, loss 5 mm (KS 0.128)

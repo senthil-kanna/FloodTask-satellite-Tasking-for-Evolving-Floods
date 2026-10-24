@@ -1,0 +1,28 @@
+{
+  "intercept": -1.337960060223508,
+  "slope_log1p_hand": -0.7309019039507282,
+  "pi_train": 0.08009471945819176,
+  "n_cells": 1865957,
+  "train_water_rate": 0.0800688333118073,
+  "prior_at_hand_m": {
+    "0": 0.20784572607318272,
+    "1": 0.13651021105724956,
+    "2": 0.10518108600917757,
+    "5": 0.0661395280391755,
+    "10": 0.04349723608928049,
+    "20": 0.027566315537001763
+  },
+  "mean_prior_on_water_cells": 0.14852766050607932,
+  "mean_prior_on_dry_cells": 0.0741111659544872,
+  "provenance": {
+    "timestamp_utc": "2026-10-20T09:10:25Z",
+    "python": "3.12.6",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+    "numpy": "2.5.4",
+    "torch": "2.5.1+cu124",
+    "cuda": "12.4",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "git_commit": null
+  }
+}

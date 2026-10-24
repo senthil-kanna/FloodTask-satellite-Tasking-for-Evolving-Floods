@@ -1,0 +1,33 @@
+feedforward seed 0: 130 iterations x 3072 steps, params 308930
+  it 5/130 0.5 min ret 3.876 ent 5.21
+  it 10/130 1.0 min ret 6.328 ent 5.10
+  it 15/130 1.5 min ret 10.526 ent 4.93
+  it 20/130 1.9 min ret 16.589 ent 4.86
+  it 25/130 2.3 min ret 14.692 ent 4.70
+it 25/130 ret 14.692 ent 4.70 kl 0.0238 val mean IoU 0.1894 final 0.2339 (best 0.1894) 2.3 min
+  it 30/130 3.1 min ret 10.905 ent 4.51
+  it 35/130 3.5 min ret 18.783 ent 4.40
+  it 40/130 3.9 min ret 23.352 ent 4.23
+  it 45/130 4.4 min ret 9.251 ent 3.98
+  it 50/130 4.8 min ret 16.207 ent 4.08
+it 50/130 ret 16.207 ent 4.08 kl 0.0304 val mean IoU 0.2073 final 0.2569 (best 0.2073) 4.8 min
+  it 55/130 5.5 min ret 16.544 ent 3.78
+  it 60/130 5.9 min ret 11.859 ent 3.74
+  it 65/130 6.3 min ret 15.961 ent 3.93
+  it 70/130 6.7 min ret 29.630 ent 3.71
+  it 75/130 7.1 min ret 15.314 ent 3.68
+it 75/130 ret 15.314 ent 3.68 kl 0.0298 val mean IoU 0.2150 final 0.2594 (best 0.2150) 7.1 min
+  it 80/130 7.8 min ret 26.135 ent 3.59
+  it 85/130 8.2 min ret 8.563 ent 3.48
+  it 90/130 8.6 min ret 18.076 ent 3.57
+  it 95/130 9.0 min ret 18.428 ent 3.61
+  it 100/130 9.4 min ret 16.345 ent 3.64
+it 100/130 ret 16.345 ent 3.64 kl 0.0185 val mean IoU 0.2258 final 0.2679 (best 0.2258) 9.4 min
+  it 105/130 10.1 min ret 12.998 ent 3.49
+  it 110/130 10.5 min ret 10.578 ent 3.56
+  it 115/130 11.0 min ret 10.082 ent 3.66
+  it 120/130 11.4 min ret 13.400 ent 3.52
+  it 125/130 11.8 min ret 20.340 ent 3.57
+it 125/130 ret 20.340 ent 3.57 kl 0.0030 val mean IoU 0.2213 final 0.2654 (best 0.2258) 11.8 min
+  it 130/130 12.5 min ret 13.257 ent 3.37
+it 130/130 ret 13.257 ent 3.37 kl 0.0010 val mean IoU 0.2193 final 0.2655 (best 0.2258) 12.5 min

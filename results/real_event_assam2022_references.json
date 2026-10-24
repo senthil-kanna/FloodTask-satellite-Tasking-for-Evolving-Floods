@@ -1,0 +1,6087 @@
+{
+  "per_scene_date": [
+    {
+      "scene": "India_00",
+      "date": "2022-05-18",
+      "otsu_vh_db": -19.084701538085938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5289088119695216,
+      "ref_water_frac": 0.013313110886417257
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-05-23",
+      "otsu_vh_db": -19.565832138061523,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5636664496527778,
+      "ref_water_frac": 0.02654495855629
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-05-25",
+      "otsu_vh_db": -18.556289672851562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5675071433738426,
+      "ref_water_frac": 0.009120254137418661
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-05-30",
+      "otsu_vh_db": -19.141311645507812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5762261284722222,
+      "ref_water_frac": 0.007104973481437006
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-06-04",
+      "otsu_vh_db": -19.494373321533203,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5912339952256944,
+      "ref_water_frac": 0.014494172950739398
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-06-06",
+      "otsu_vh_db": -18.774932861328125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5744297357253086,
+      "ref_water_frac": 0.008908908908908908
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-06-11",
+      "otsu_vh_db": -19.08533477783203,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5628481264467593,
+      "ref_water_frac": 0.012563983248022336
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-06-16",
+      "otsu_vh_db": -19.418434143066406,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5359949182581019,
+      "ref_water_frac": 0.032837496491720464
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-06-18",
+      "otsu_vh_db": -18.654754638671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.4488110954378858,
+      "ref_water_frac": 0.021323580153198535
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-06-23",
+      "otsu_vh_db": -19.026138305664062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5325573579764661,
+      "ref_water_frac": 0.019800897057214748
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-06-28",
+      "otsu_vh_db": -19.527889251708984,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5116433979552469,
+      "ref_water_frac": 0.04415801408282611
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-06-30",
+      "otsu_vh_db": -18.704872131347656,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.45298861279899694,
+      "ref_water_frac": 0.030462400109282153
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-07-05",
+      "otsu_vh_db": -19.089447021484375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5396517529899691,
+      "ref_water_frac": 0.026595162525993213
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-07-12",
+      "otsu_vh_db": -18.5179443359375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5342934690875771,
+      "ref_water_frac": 0.01694073501820991
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-07-17",
+      "otsu_vh_db": -19.039962768554688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.552453311873071,
+      "ref_water_frac": 0.012804974442746482
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-07-22",
+      "otsu_vh_db": -19.781978607177734,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5610208393614969,
+      "ref_water_frac": 0.026465028355387523
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-07-24",
+      "otsu_vh_db": -18.717071533203125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5404738437982253,
+      "ref_water_frac": 0.014029575862629326
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-07-29",
+      "otsu_vh_db": -19.18482208251953,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5546279718846451,
+      "ref_water_frac": 0.012894132386719565
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-08-03",
+      "otsu_vh_db": -19.624046325683594,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5556776258680556,
+      "ref_water_frac": 0.022880997674910166
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-08-05",
+      "otsu_vh_db": -18.859710693359375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5514345522280093,
+      "ref_water_frac": 0.010601824990769556
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-08-10",
+      "otsu_vh_db": -19.24481964111328,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5614089023919753,
+      "ref_water_frac": 0.009550215650030808
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-08-15",
+      "otsu_vh_db": -19.507259368896484,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5584181797357253,
+      "ref_water_frac": 0.018658093079639487
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-08-22",
+      "otsu_vh_db": -19.272613525390625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5646957585841049,
+      "ref_water_frac": 0.008230244887654633
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-08-27",
+      "otsu_vh_db": -19.69443130493164,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5679336359471451,
+      "ref_water_frac": 0.013114420779748894
+    },
+    {
+      "scene": "India_00",
+      "date": "2022-08-29",
+      "otsu_vh_db": -18.701858520507812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5583918065200617,
+      "ref_water_frac": 0.007232994767620807
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-05-18",
+      "otsu_vh_db": -19.047332763671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5951937451774691,
+      "ref_water_frac": 0.012053505806261943
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-05-23",
+      "otsu_vh_db": -21.107322692871094,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9403784481095679,
+      "ref_water_frac": 0.36528740503072316
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-05-25",
+      "otsu_vh_db": -19.59622573852539,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6887063862364969,
+      "ref_water_frac": 0.052902120368387234
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-05-30",
+      "otsu_vh_db": -18.544509887695312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6240385079089507,
+      "ref_water_frac": 0.01553604168677024
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-06-04",
+      "otsu_vh_db": -20.621871948242188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.906969612027392,
+      "ref_water_frac": 0.2847252955680597
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-06-06",
+      "otsu_vh_db": -19.659915924072266,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6918756932388117,
+      "ref_water_frac": 0.036116144801719416
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-06-11",
+      "otsu_vh_db": -18.749984741210938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6409030490451388,
+      "ref_water_frac": 0.01844132306298142
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-06-16",
+      "otsu_vh_db": -20.631118774414062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9383273654513888,
+      "ref_water_frac": 0.38129299324283195
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-06-18",
+      "otsu_vh_db": -19.543983459472656,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5384551625192902,
+      "ref_water_frac": 0.06757511448676422
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-06-23",
+      "otsu_vh_db": -18.631698608398438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5702620141300154,
+      "ref_water_frac": 0.027243423104918375
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-06-28",
+      "otsu_vh_db": -20.969642639160156,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9458452389564043,
+      "ref_water_frac": 0.4402955694860846
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-06-30",
+      "otsu_vh_db": -19.78520393371582,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5772200219425154,
+      "ref_water_frac": 0.1057494324481284
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-07-05",
+      "otsu_vh_db": -18.667266845703125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5930906696084105,
+      "ref_water_frac": 0.057831569352306676
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-07-12",
+      "otsu_vh_db": -19.488924026489258,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6197607723283179,
+      "ref_water_frac": 0.0489179764008981
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-07-17",
+      "otsu_vh_db": -18.553756713867188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5728300118152007,
+      "ref_water_frac": 0.016778178075141533
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-07-22",
+      "otsu_vh_db": -21.04106903076172,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9239562234760802,
+      "ref_water_frac": 0.4016610158947401
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-07-24",
+      "otsu_vh_db": -19.471662521362305,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6197894061053241,
+      "ref_water_frac": 0.04508818509387445
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-07-29",
+      "otsu_vh_db": -18.704010009765625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5845623251832561,
+      "ref_water_frac": 0.02155820715933019
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-08-03",
+      "otsu_vh_db": -20.978134155273438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9214763876832561,
+      "ref_water_frac": 0.4032247964934252
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-08-05",
+      "otsu_vh_db": -19.761436462402344,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6191850827064043,
+      "ref_water_frac": 0.039348970799425564
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-08-10",
+      "otsu_vh_db": -18.9051513671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5776691201292439,
+      "ref_water_frac": 0.01150940526289104
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-08-15",
+      "otsu_vh_db": -20.90008544921875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8943293065200617,
+      "ref_water_frac": 0.35928624153535094
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-08-22",
+      "otsu_vh_db": -18.928863525390625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5679517204378858,
+      "ref_water_frac": 0.008428128231644261
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-08-27",
+      "otsu_vh_db": -21.1124267578125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8974330572434414,
+      "ref_water_frac": 0.3558612819374881
+    },
+    {
+      "scene": "India_01",
+      "date": "2022-08-29",
+      "otsu_vh_db": -19.66309356689453,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5995181990258488,
+      "ref_water_frac": 0.01903274608364648
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-05-18",
+      "otsu_vh_db": -17.028182983398438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7627812138310185,
+      "ref_water_frac": 0.04998799327623469
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-05-20",
+      "otsu_vh_db": -16.825897216796875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7635709032600309,
+      "ref_water_frac": 0.06643255525717827
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-05-25",
+      "otsu_vh_db": -15.062454223632812,
+      "valid_frac": 0.9700844847125771,
+      "ref_agreement_frac": 0.5997189691184501,
+      "ref_water_frac": 0.05340031630849381
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-05-30",
+      "otsu_vh_db": -15.05572509765625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6324952678915895,
+      "ref_water_frac": 0.09162021219205178
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-06-01",
+      "otsu_vh_db": -15.641616821289062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6855581778067129,
+      "ref_water_frac": 0.0821290786634408
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-06-06",
+      "otsu_vh_db": -15.287643432617188,
+      "valid_frac": 0.9569001374421297,
+      "ref_agreement_frac": 0.639793024050599,
+      "ref_water_frac": 0.04452054794520548
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-06-11",
+      "otsu_vh_db": -16.689743041992188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7403300720968364,
+      "ref_water_frac": 0.05247061907466469
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-06-13",
+      "otsu_vh_db": -16.79157257080078,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7656219859182098,
+      "ref_water_frac": 0.058853980010353205
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-06-18",
+      "otsu_vh_db": -16.178634643554688,
+      "valid_frac": 0.9643788278838734,
+      "ref_agreement_frac": 0.695872345645636,
+      "ref_water_frac": 0.040994157837409645
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-06-23",
+      "otsu_vh_db": -16.276748657226562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7587536470389661,
+      "ref_water_frac": 0.05283301439387636
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-06-30",
+      "otsu_vh_db": -16.462875366210938,
+      "valid_frac": 0.9575187777295525,
+      "ref_agreement_frac": 0.7195566002768494,
+      "ref_water_frac": 0.04613552022724149
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-07-05",
+      "otsu_vh_db": -17.25103759765625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.780408317660108,
+      "ref_water_frac": 0.0694951046266078
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-07-07",
+      "otsu_vh_db": -16.814590454101562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7807978877314815,
+      "ref_water_frac": 0.06601957323921065
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-07-12",
+      "otsu_vh_db": -16.449234008789062,
+      "valid_frac": 0.9593211986400463,
+      "ref_agreement_frac": 0.7169926770396169,
+      "ref_water_frac": 0.043921309619285746
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-07-17",
+      "otsu_vh_db": -16.45556640625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7563099802276234,
+      "ref_water_frac": 0.07212985992931012
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-07-19",
+      "otsu_vh_db": -16.651145935058594,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7666090977044753,
+      "ref_water_frac": 0.07343604503513079
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-07-24",
+      "otsu_vh_db": -16.619247436523438,
+      "valid_frac": 0.961168830777392,
+      "ref_agreement_frac": 0.7034026330168999,
+      "ref_water_frac": 0.04507122778598313
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-07-29",
+      "otsu_vh_db": -17.471160888671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7756882655767747,
+      "ref_water_frac": 0.06625813864419762
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-08-05",
+      "otsu_vh_db": -16.071395874023438,
+      "valid_frac": 0.9585307556905864,
+      "ref_agreement_frac": 0.6489705755186428,
+      "ref_water_frac": 0.04234875444839858
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-08-10",
+      "otsu_vh_db": -16.900985717773438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7199330271026234,
+      "ref_water_frac": 0.06331693916434046
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-08-12",
+      "otsu_vh_db": -16.536163330078125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7021748107156636,
+      "ref_water_frac": 0.0800725185073274
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-08-22",
+      "otsu_vh_db": -15.813613891601562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6581609278549383,
+      "ref_water_frac": 0.07094006466053221
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-08-24",
+      "otsu_vh_db": -15.870140075683594,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6256691261574074,
+      "ref_water_frac": 0.08444894146948942
+    },
+    {
+      "scene": "India_02",
+      "date": "2022-08-29",
+      "otsu_vh_db": -15.0047607421875,
+      "valid_frac": 0.9604416835455247,
+      "ref_agreement_frac": 0.5888188193057305,
+      "ref_water_frac": 0.05630397236614853
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-05-18",
+      "otsu_vh_db": -17.454299926757812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6745191032503858,
+      "ref_water_frac": 0.04569028109117312
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-05-23",
+      "otsu_vh_db": -18.76532745361328,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8668793101369598,
+      "ref_water_frac": 0.09544438714113804
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-05-25",
+      "otsu_vh_db": -17.74858856201172,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.850781852816358,
+      "ref_water_frac": 0.057042229204792655
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-05-30",
+      "otsu_vh_db": -16.81494140625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7427104431905864,
+      "ref_water_frac": 0.013441096371782483
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-06-04",
+      "otsu_vh_db": -18.682357788085938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.868994442033179,
+      "ref_water_frac": 0.0687916078273149
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-06-06",
+      "otsu_vh_db": -17.734413146972656,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7747328016493056,
+      "ref_water_frac": 0.07092404852916735
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-06-11",
+      "otsu_vh_db": -17.426513671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6432819130979939,
+      "ref_water_frac": 0.035056380484537235
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-06-16",
+      "otsu_vh_db": -18.651962280273438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7464396158854166,
+      "ref_water_frac": 0.21084283677833215
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-06-18",
+      "otsu_vh_db": -17.8475341796875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6834686656057098,
+      "ref_water_frac": 0.13945104071528144
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-06-23",
+      "otsu_vh_db": -17.341171264648438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7377236448688271,
+      "ref_water_frac": 0.05142035239122618
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-06-28",
+      "otsu_vh_db": -18.690277099609375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7833847234278549,
+      "ref_water_frac": 0.13931436907366884
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-06-30",
+      "otsu_vh_db": -18.065628051757812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7042854214891975,
+      "ref_water_frac": 0.10749824807288016
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-07-05",
+      "otsu_vh_db": -17.3662109375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6847112208236883,
+      "ref_water_frac": 0.06832722832722833
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-07-12",
+      "otsu_vh_db": -17.803512573242188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7767469618055556,
+      "ref_water_frac": 0.07745599548878238
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-07-17",
+      "otsu_vh_db": -17.344009399414062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6949907467689043,
+      "ref_water_frac": 0.04250084422789329
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-07-22",
+      "otsu_vh_db": -18.61261749267578,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7584914219232253,
+      "ref_water_frac": 0.10231394621638525
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-07-24",
+      "otsu_vh_db": -17.7301025390625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7665473090277778,
+      "ref_water_frac": 0.08114744035683595
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-07-29",
+      "otsu_vh_db": -17.443939208984375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7188065140335648,
+      "ref_water_frac": 0.04513953058584365
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-08-03",
+      "otsu_vh_db": -18.461830139160156,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7342182677469136,
+      "ref_water_frac": 0.1145490161161072
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-08-05",
+      "otsu_vh_db": -17.843902587890625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7652369369695216,
+      "ref_water_frac": 0.0799848049974675
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-08-10",
+      "otsu_vh_db": -17.518280029296875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6439789195119598,
+      "ref_water_frac": 0.0311576685468708
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-08-15",
+      "otsu_vh_db": -18.53008270263672,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7922687295042439,
+      "ref_water_frac": 0.06857348013403543
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-08-22",
+      "otsu_vh_db": -17.266510009765625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7342129931037809,
+      "ref_water_frac": 0.020369602285819622
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-08-27",
+      "otsu_vh_db": -18.922840118408203,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8636791087962963,
+      "ref_water_frac": 0.04300318417965477
+    },
+    {
+      "scene": "India_03",
+      "date": "2022-08-29",
+      "otsu_vh_db": -18.343536376953125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8624674479166666,
+      "ref_water_frac": 0.03646092996975438
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-05-23",
+      "otsu_vh_db": -20.10034942626953,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.853441779996142,
+      "ref_water_frac": 0.3853463910047153
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-05-25",
+      "otsu_vh_db": -19.5521240234375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7424082814911266,
+      "ref_water_frac": 0.2716335030078667
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-06-04",
+      "otsu_vh_db": -18.852157592773438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8414826569733797,
+      "ref_water_frac": 0.18294325337604192
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-06-06",
+      "otsu_vh_db": -18.199081420898438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.85308837890625,
+      "ref_water_frac": 0.1645942873383544
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-06-16",
+      "otsu_vh_db": -19.223129272460938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7792275511188271,
+      "ref_water_frac": 0.2716670100968473
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-06-18",
+      "otsu_vh_db": -19.569625854492188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.679796760464892,
+      "ref_water_frac": 0.2831901129670754
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-06-28",
+      "otsu_vh_db": -19.994155883789062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7933658552758488,
+      "ref_water_frac": 0.5574731491350332
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-06-30",
+      "otsu_vh_db": -19.426513671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6891012309510031,
+      "ref_water_frac": 0.40840610306112657
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-07-12",
+      "otsu_vh_db": -18.947723388671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7719877266589507,
+      "ref_water_frac": 0.26594811379872163
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-07-22",
+      "otsu_vh_db": -18.692413330078125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.749036247347608,
+      "ref_water_frac": 0.17978168427513042
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-07-24",
+      "otsu_vh_db": -18.20574951171875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7056018217110339,
+      "ref_water_frac": 0.2056837366347777
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-08-03",
+      "otsu_vh_db": -18.58342742919922,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7432755835262346,
+      "ref_water_frac": 0.1647874720357942
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-08-05",
+      "otsu_vh_db": -18.509048461914062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7723253038194444,
+      "ref_water_frac": 0.1725383161872769
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-08-15",
+      "otsu_vh_db": -18.09941864013672,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7281456464602624,
+      "ref_water_frac": 0.10777556778759424
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-08-27",
+      "otsu_vh_db": -17.909568786621094,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7229576581790124,
+      "ref_water_frac": 0.06515085264538698
+    },
+    {
+      "scene": "India_04",
+      "date": "2022-08-29",
+      "otsu_vh_db": -17.390716552734375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7576098029996142,
+      "ref_water_frac": 0.11182674850868851
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-05-18",
+      "otsu_vh_db": -14.755851745605469,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5224353178047839,
+      "ref_water_frac": 0.000503651473180559
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-05-23",
+      "otsu_vh_db": -15.401942253112793,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5498468846450617,
+      "ref_water_frac": 0.005001562988433885
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-05-25",
+      "otsu_vh_db": -14.75164794921875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5130087770061729,
+      "ref_water_frac": 0.003425596053713346
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-05-30",
+      "otsu_vh_db": -14.981285095214844,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5370905369888117,
+      "ref_water_frac": 0.0018140041117426532
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-06-04",
+      "otsu_vh_db": -15.7555570602417,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5752005871431327,
+      "ref_water_frac": 0.003173012692050768
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-06-06",
+      "otsu_vh_db": -15.140647888183594,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5346498842592593,
+      "ref_water_frac": 0.004564721225953701
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-06-11",
+      "otsu_vh_db": -15.020187377929688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5732941804108797,
+      "ref_water_frac": 0.0013890175016205205
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-06-16",
+      "otsu_vh_db": -16.21898078918457,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6199491524402007,
+      "ref_water_frac": 0.004340528965796632
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-06-18",
+      "otsu_vh_db": -16.262985229492188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5821593484760802,
+      "ref_water_frac": 0.00408997955010225
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-06-23",
+      "otsu_vh_db": -16.298133850097656,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6151665581597222,
+      "ref_water_frac": 0.00145985401459854
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-06-28",
+      "otsu_vh_db": -17.292564392089844,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6400236906828703,
+      "ref_water_frac": 0.005509641873278237
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-06-30",
+      "otsu_vh_db": -16.368392944335938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5921826774691358,
+      "ref_water_frac": 0.004634206623826001
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-07-05",
+      "otsu_vh_db": -16.54241180419922,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6452041437596451,
+      "ref_water_frac": 0.00505438962751346
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-07-12",
+      "otsu_vh_db": -17.121658325195312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6180841893325617,
+      "ref_water_frac": 0.004516857557670592
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-07-17",
+      "otsu_vh_db": -17.410133361816406,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6185694565007716,
+      "ref_water_frac": 0.0022277353045415424
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-07-22",
+      "otsu_vh_db": -17.35660171508789,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6094006196952161,
+      "ref_water_frac": 0.0034349506225848005
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-07-24",
+      "otsu_vh_db": -16.60785675048828,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5664085105613426,
+      "ref_water_frac": 0.0033742132243202907
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-07-29",
+      "otsu_vh_db": -16.831512451171875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6032511393229166,
+      "ref_water_frac": 0.004408685109666042
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-08-03",
+      "otsu_vh_db": -16.7840518951416,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5824931580343364,
+      "ref_water_frac": 0.005089374379344588
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-08-05",
+      "otsu_vh_db": -15.954383850097656,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5236831476658951,
+      "ref_water_frac": 0.0047258136424431565
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-08-10",
+      "otsu_vh_db": -16.116439819335938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5555156189718364,
+      "ref_water_frac": 0.002486062980262167
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-08-15",
+      "otsu_vh_db": -17.350204467773438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6056224681712963,
+      "ref_water_frac": 0.01779651735844924
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-08-22",
+      "otsu_vh_db": -16.214935302734375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5512537073206019,
+      "ref_water_frac": 0.0012113438791506342
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-08-27",
+      "otsu_vh_db": -16.567350387573242,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5620772750289352,
+      "ref_water_frac": 0.004854696244353044
+    },
+    {
+      "scene": "India_06",
+      "date": "2022-08-29",
+      "otsu_vh_db": -15.678550720214844,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5079330632716049,
+      "ref_water_frac": 0.002972287787394003
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-05-18",
+      "otsu_vh_db": -14.206817626953125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5416651596257716,
+      "ref_water_frac": 0.0012345679012345679
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-05-20",
+      "otsu_vh_db": -14.1597900390625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5673270519868827,
+      "ref_water_frac": 0.007526098567613498
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-05-25",
+      "otsu_vh_db": -14.19195556640625,
+      "valid_frac": 0.5468305422935957,
+      "ref_agreement_frac": 0.5404719023399445,
+      "ref_water_frac": 0.0016114180478821363
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-05-30",
+      "otsu_vh_db": -13.598098754882812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5501686378761574,
+      "ref_water_frac": 0.0004854368932038835
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-06-01",
+      "otsu_vh_db": -14.45782470703125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5584144121334876,
+      "ref_water_frac": 0.01300093821203592
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-06-06",
+      "otsu_vh_db": -14.64849853515625,
+      "valid_frac": 0.5252715687692902,
+      "ref_agreement_frac": 0.537498744781879,
+      "ref_water_frac": 0.001384083044982699
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-06-11",
+      "otsu_vh_db": -14.446121215820312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5761914665316358,
+      "ref_water_frac": 0.0024940929377789446
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-06-13",
+      "otsu_vh_db": -14.1640625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5854318877797068,
+      "ref_water_frac": 0.010148232611174458
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-06-18",
+      "otsu_vh_db": -14.4578857421875,
+      "valid_frac": 0.5370807412229939,
+      "ref_agreement_frac": 0.5577443803120817,
+      "ref_water_frac": 0.0018123238018525976
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-06-23",
+      "otsu_vh_db": -14.446395874023438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5834636923707561,
+      "ref_water_frac": 0.0035833120040952137
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-06-30",
+      "otsu_vh_db": -14.339950561523438,
+      "valid_frac": 0.5262850537712191,
+      "ref_agreement_frac": 0.5714246851890298,
+      "ref_water_frac": 0.0020595394120951132
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-07-05",
+      "otsu_vh_db": -14.578033447265625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5941651897665895,
+      "ref_water_frac": 0.004660375160200396
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-07-07",
+      "otsu_vh_db": -14.986785888671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6226625795717593,
+      "ref_water_frac": 0.02368663594470046
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-07-12",
+      "otsu_vh_db": -14.859375,
+      "valid_frac": 0.5290361569251543,
+      "ref_agreement_frac": 0.5687451394843367,
+      "ref_water_frac": 0.0020964360587002098
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-07-17",
+      "otsu_vh_db": -14.662689208984375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6131734965760031,
+      "ref_water_frac": 0.011058946270213876
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-07-19",
+      "otsu_vh_db": -14.901092529296875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6156759379822531,
+      "ref_water_frac": 0.020973075106282477
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-07-24",
+      "otsu_vh_db": -15.169265747070312,
+      "valid_frac": 0.5318897388599537,
+      "ref_agreement_frac": 0.6065963707352455,
+      "ref_water_frac": 0.0027326552299984817
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-07-29",
+      "otsu_vh_db": -14.974533081054688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.66436767578125,
+      "ref_water_frac": 0.008942903003898188
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-08-05",
+      "otsu_vh_db": -14.88824462890625,
+      "valid_frac": 0.5277596932870371,
+      "ref_agreement_frac": 0.566252898376909,
+      "ref_water_frac": 0.002981181293087386
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-08-10",
+      "otsu_vh_db": -14.90728759765625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6332382390528549,
+      "ref_water_frac": 0.0070818957690212455
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-08-12",
+      "otsu_vh_db": -15.022628784179688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6274052372685185,
+      "ref_water_frac": 0.021565217391304348
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-08-22",
+      "otsu_vh_db": -14.677474975585938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5741727852527007,
+      "ref_water_frac": 0.003173763554615181
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-08-24",
+      "otsu_vh_db": -14.957284927368164,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5670550311053241,
+      "ref_water_frac": 0.027295887419628777
+    },
+    {
+      "scene": "India_07",
+      "date": "2022-08-29",
+      "otsu_vh_db": -14.382217407226562,
+      "valid_frac": 0.5307443877797068,
+      "ref_agreement_frac": 0.5588121297133681,
+      "ref_water_frac": 0.002451982018798529
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-05-18",
+      "otsu_vh_db": -15.863235473632812,
+      "valid_frac": 0.8075870466820988,
+      "ref_agreement_frac": 0.6422698534735648,
+      "ref_water_frac": 0.009535622916505155
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-05-23",
+      "otsu_vh_db": -16.572555541992188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6786077051986883,
+      "ref_water_frac": 0.048651960784313726
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-05-25",
+      "otsu_vh_db": -15.692718505859375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6604305314429012,
+      "ref_water_frac": 0.03774391112377154
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-05-30",
+      "otsu_vh_db": -15.479782104492188,
+      "valid_frac": 0.8254183545524691,
+      "ref_agreement_frac": 0.5924132932146327,
+      "ref_water_frac": 0.007416267942583732
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-06-04",
+      "otsu_vh_db": -16.30438232421875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6814545054494598,
+      "ref_water_frac": 0.047433999506538364
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-06-06",
+      "otsu_vh_db": -16.187339782714844,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6944693106192129,
+      "ref_water_frac": 0.030706681645535763
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-06-11",
+      "otsu_vh_db": -16.211395263671875,
+      "valid_frac": 0.8281445915316358,
+      "ref_agreement_frac": 0.6468853556850834,
+      "ref_water_frac": 0.005771478667445938
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-06-16",
+      "otsu_vh_db": -17.39696502685547,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7438497661072531,
+      "ref_water_frac": 0.04809834172098012
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-06-18",
+      "otsu_vh_db": -16.923255920410156,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7174449025848766,
+      "ref_water_frac": 0.02572846967407727
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-06-23",
+      "otsu_vh_db": -15.868988037109375,
+      "valid_frac": 0.8262246214313271,
+      "ref_agreement_frac": 0.6581561460885046,
+      "ref_water_frac": 0.009767092411720512
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-06-28",
+      "otsu_vh_db": -17.663246154785156,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8040658456307871,
+      "ref_water_frac": 0.05266201472685917
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-06-30",
+      "otsu_vh_db": -17.63585662841797,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7721482265142747,
+      "ref_water_frac": 0.05008235940073731
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-07-05",
+      "otsu_vh_db": -16.098480224609375,
+      "valid_frac": 0.8267754448784722,
+      "ref_agreement_frac": 0.6794326008437711,
+      "ref_water_frac": 0.02065848934796643
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-07-12",
+      "otsu_vh_db": -16.929183959960938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7753378785686729,
+      "ref_water_frac": 0.03715964578333195
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-07-17",
+      "otsu_vh_db": -16.1588134765625,
+      "valid_frac": 0.8232919198495371,
+      "ref_agreement_frac": 0.6676221908595508,
+      "ref_water_frac": 0.008896531100478468
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-07-22",
+      "otsu_vh_db": -17.52740478515625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.790137020158179,
+      "ref_water_frac": 0.059227363204289715
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-07-24",
+      "otsu_vh_db": -16.94751739501953,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7837961455922068,
+      "ref_water_frac": 0.027215742283583273
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-07-29",
+      "otsu_vh_db": -16.236618041992188,
+      "valid_frac": 0.8147741247106481,
+      "ref_agreement_frac": 0.664056821019338,
+      "ref_water_frac": 0.005043387970036342
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-08-03",
+      "otsu_vh_db": -17.523162841796875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7811445071373457,
+      "ref_water_frac": 0.07092083350257931
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-08-05",
+      "otsu_vh_db": -16.60643768310547,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7308756510416666,
+      "ref_water_frac": 0.04988562807222466
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-08-10",
+      "otsu_vh_db": -16.232772827148438,
+      "valid_frac": 0.8225007233796297,
+      "ref_agreement_frac": 0.6576784811239859,
+      "ref_water_frac": 0.0030056447474525326
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-08-15",
+      "otsu_vh_db": -17.061798095703125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7426614643614969,
+      "ref_water_frac": 0.04880445463478546
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-08-22",
+      "otsu_vh_db": -15.948440551757812,
+      "valid_frac": 0.8222859700520834,
+      "ref_agreement_frac": 0.6372758437731098,
+      "ref_water_frac": 0.004329403095062638
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-08-27",
+      "otsu_vh_db": -16.759078979492188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6948227117091049,
+      "ref_water_frac": 0.03458716664725748
+    },
+    {
+      "scene": "India_08",
+      "date": "2022-08-29",
+      "otsu_vh_db": -15.924827575683594,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6979385187596451,
+      "ref_water_frac": 0.05135699373695198
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-05-18",
+      "otsu_vh_db": -13.7724609375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5315988799672068,
+      "ref_water_frac": 0.023693173404412852
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-05-25",
+      "otsu_vh_db": -14.371368408203125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5953715760030864,
+      "ref_water_frac": 0.03017201729371723
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-05-30",
+      "otsu_vh_db": -13.848037719726562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5253687729070216,
+      "ref_water_frac": 0.019077196095829637
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-06-06",
+      "otsu_vh_db": -14.446830749511719,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5963722511574074,
+      "ref_water_frac": 0.03211476168440537
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-06-18",
+      "otsu_vh_db": -14.239570617675781,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5989568262924383,
+      "ref_water_frac": 0.028038202050293524
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-06-23",
+      "otsu_vh_db": -13.760543823242188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5603562343267747,
+      "ref_water_frac": 0.020616085341004436
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-06-30",
+      "otsu_vh_db": -14.53204345703125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6160195433063271,
+      "ref_water_frac": 0.032311191279115366
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-07-05",
+      "otsu_vh_db": -14.19525146484375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5801195686246142,
+      "ref_water_frac": 0.02061430632859204
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-07-12",
+      "otsu_vh_db": -14.702720642089844,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5957114137249229,
+      "ref_water_frac": 0.03016062884483937
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-07-17",
+      "otsu_vh_db": -14.239959716796875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5733356240354939,
+      "ref_water_frac": 0.017693455553186955
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-07-24",
+      "otsu_vh_db": -14.540016174316406,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5910328052662037,
+      "ref_water_frac": 0.032128154644710936
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-07-29",
+      "otsu_vh_db": -14.220184326171875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5519394109278549,
+      "ref_water_frac": 0.020711500974658868
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-08-05",
+      "otsu_vh_db": -14.690513610839844,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5850513599537037,
+      "ref_water_frac": 0.033179297597042516
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-08-10",
+      "otsu_vh_db": -14.208526611328125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5454154308931327,
+      "ref_water_frac": 0.020902795588612466
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-08-22",
+      "otsu_vh_db": -14.092010498046875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5226304796006944,
+      "ref_water_frac": 0.021492713087001326
+    },
+    {
+      "scene": "India_09",
+      "date": "2022-08-29",
+      "otsu_vh_db": -14.13995361328125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5705702039930556,
+      "ref_water_frac": 0.03286142399503979
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-05-18",
+      "otsu_vh_db": -15.298254013061523,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5814743983892747,
+      "ref_water_frac": 0.019121576486305945
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-05-20",
+      "otsu_vh_db": -14.870094299316406,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5623312114197531,
+      "ref_water_frac": 0.046446917808219176
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-05-25",
+      "otsu_vh_db": -14.511642456054688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5209343050733025,
+      "ref_water_frac": 0.019012572830420117
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-05-30",
+      "otsu_vh_db": -14.73792839050293,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5313411759741512,
+      "ref_water_frac": 0.023643202579258463
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-06-01",
+      "otsu_vh_db": -14.787317276000977,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5469171971450617,
+      "ref_water_frac": 0.049479501349440944
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-06-06",
+      "otsu_vh_db": -14.553604125976562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5393413025655864,
+      "ref_water_frac": 0.020931899641577063
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-06-11",
+      "otsu_vh_db": -14.912643432617188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5564221040702161,
+      "ref_water_frac": 0.029559959690964057
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-06-13",
+      "otsu_vh_db": -14.611148834228516,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5818707501446759,
+      "ref_water_frac": 0.03788554109466928
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-06-18",
+      "otsu_vh_db": -15.32037353515625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.605749813126929,
+      "ref_water_frac": 0.009086287965433981
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-06-23",
+      "otsu_vh_db": -15.067150115966797,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5914155936535493,
+      "ref_water_frac": 0.03591844512195122
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-06-30",
+      "otsu_vh_db": -15.35943603515625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6058748975212191,
+      "ref_water_frac": 0.012155273820415632
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-07-05",
+      "otsu_vh_db": -16.1663818359375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6531575520833334,
+      "ref_water_frac": 0.022993612885309635
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-07-07",
+      "otsu_vh_db": -15.834900856018066,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6280050395447531,
+      "ref_water_frac": 0.0308846387781307
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-07-12",
+      "otsu_vh_db": -15.777374267578125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6427589699074074,
+      "ref_water_frac": 0.010860332483921854
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-07-17",
+      "otsu_vh_db": -16.73617172241211,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6590990608121142,
+      "ref_water_frac": 0.014164161614103022
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-07-19",
+      "otsu_vh_db": -16.26595687866211,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6329375843942902,
+      "ref_water_frac": 0.02794784580498866
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-07-24",
+      "otsu_vh_db": -15.900161743164062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6068439248167439,
+      "ref_water_frac": 0.010406629408363847
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-07-29",
+      "otsu_vh_db": -16.11693000793457,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6098090277777778,
+      "ref_water_frac": 0.020007597821957705
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-08-05",
+      "otsu_vh_db": -15.25665283203125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5467107325424383,
+      "ref_water_frac": 0.01963237416995477
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-08-10",
+      "otsu_vh_db": -15.990995407104492,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5908964180652007,
+      "ref_water_frac": 0.018214032600992205
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-08-12",
+      "otsu_vh_db": -15.379340171813965,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5711624710648148,
+      "ref_water_frac": 0.04628897672375933
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-08-22",
+      "otsu_vh_db": -15.508857727050781,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5643649631076388,
+      "ref_water_frac": 0.025393647037407846
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-08-24",
+      "otsu_vh_db": -15.362716674804688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5638887381847993,
+      "ref_water_frac": 0.04713327666005478
+    },
+    {
+      "scene": "India_11",
+      "date": "2022-08-29",
+      "otsu_vh_db": -14.720893859863281,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5530056423611112,
+      "ref_water_frac": 0.014012478265316559
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-05-18",
+      "otsu_vh_db": -13.9005126953125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5312349295910493,
+      "ref_water_frac": 0.0006830601092896175
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-05-23",
+      "otsu_vh_db": -13.993370056152344,
+      "valid_frac": 0.9163479275173612,
+      "ref_agreement_frac": 0.5179143960680509,
+      "ref_water_frac": 0.0016082916368834882
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-05-25",
+      "otsu_vh_db": -14.107162475585938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5458924093364198,
+      "ref_water_frac": 0.0024601686972820992
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-05-30",
+      "otsu_vh_db": -14.0296630859375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5405469352816358,
+      "ref_water_frac": 0.0006882312456985547
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-06-04",
+      "otsu_vh_db": -13.878707885742188,
+      "valid_frac": 0.9021161868248457,
+      "ref_agreement_frac": 0.5218158673306593,
+      "ref_water_frac": 0.0022298803973241437
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-06-06",
+      "otsu_vh_db": -14.310714721679688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5591709466628086,
+      "ref_water_frac": 0.0031481897908702495
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-06-11",
+      "otsu_vh_db": -13.743743896484375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5554824640721451,
+      "ref_water_frac": 0.004916018025399427
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-06-16",
+      "otsu_vh_db": -13.961467742919922,
+      "valid_frac": 0.9212593737943673,
+      "ref_agreement_frac": 0.5409031683934412,
+      "ref_water_frac": 0.004087193460490463
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-06-18",
+      "otsu_vh_db": -14.077949523925781,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5640665690104166,
+      "ref_water_frac": 0.0035842293906810036
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-06-23",
+      "otsu_vh_db": -14.03106689453125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5328527379918981,
+      "ref_water_frac": 0.0021581624788037613
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-06-28",
+      "otsu_vh_db": -14.150352478027344,
+      "valid_frac": 0.9112330307195216,
+      "ref_agreement_frac": 0.5476213118156688,
+      "ref_water_frac": 0.010441226002020883
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-06-30",
+      "otsu_vh_db": -13.999443054199219,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5588793342496142,
+      "ref_water_frac": 0.006981801533707222
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-07-05",
+      "otsu_vh_db": -14.106063842773438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5318271966628086,
+      "ref_water_frac": 0.0025348542458808617
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-07-12",
+      "otsu_vh_db": -14.343353271484375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5673421223958334,
+      "ref_water_frac": 0.006935270805812417
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-07-17",
+      "otsu_vh_db": -14.188629150390625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5396509994695216,
+      "ref_water_frac": 0.004896710022953328
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-07-22",
+      "otsu_vh_db": -14.52071762084961,
+      "valid_frac": 0.9073011610243056,
+      "ref_agreement_frac": 0.5410158602023283,
+      "ref_water_frac": 0.0028808066258552397
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-07-24",
+      "otsu_vh_db": -14.306060791015625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5692244164737654,
+      "ref_water_frac": 0.008857395925597875
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-07-29",
+      "otsu_vh_db": -14.309097290039062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5407805266203703,
+      "ref_water_frac": 0.0021062133293214985
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-08-03",
+      "otsu_vh_db": -14.405776977539062,
+      "valid_frac": 0.9066659432870371,
+      "ref_agreement_frac": 0.5378926897377082,
+      "ref_water_frac": 0.00577066269545793
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-08-05",
+      "otsu_vh_db": -14.478477478027344,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5627064646026234,
+      "ref_water_frac": 0.008014448583361554
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-08-10",
+      "otsu_vh_db": -14.396759033203125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5411015263310185,
+      "ref_water_frac": 0.0030698388334612432
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-08-15",
+      "otsu_vh_db": -14.424110412597656,
+      "valid_frac": 0.910925594376929,
+      "ref_agreement_frac": 0.5453236969690453,
+      "ref_water_frac": 0.00451624109779399
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-08-22",
+      "otsu_vh_db": -14.392364501953125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.537732536410108,
+      "ref_water_frac": 0.0010741138560687433
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-08-27",
+      "otsu_vh_db": -14.559928894042969,
+      "valid_frac": 0.9165822723765432,
+      "ref_agreement_frac": 0.5337175271292338,
+      "ref_water_frac": 0.0046074456321415404
+    },
+    {
+      "scene": "India_12",
+      "date": "2022-08-29",
+      "otsu_vh_db": -14.292205810546875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5577287085262346,
+      "ref_water_frac": 0.004314868804664723
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-05-18",
+      "otsu_vh_db": -16.123260498046875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6191805615837191,
+      "ref_water_frac": 0.0068511374218438205
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-05-25",
+      "otsu_vh_db": -15.163612365722656,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.55108642578125,
+      "ref_water_frac": 0.011359380851329422
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-05-30",
+      "otsu_vh_db": -15.531902313232422,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5521895797164352,
+      "ref_water_frac": 0.01055439573184876
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-06-06",
+      "otsu_vh_db": -15.18218994140625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5801956741898148,
+      "ref_water_frac": 0.010519737527340901
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-06-11",
+      "otsu_vh_db": -15.916851043701172,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.643029483748071,
+      "ref_water_frac": 0.007499842440284868
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-06-18",
+      "otsu_vh_db": -16.206680297851562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6775377061631944,
+      "ref_water_frac": 0.030370701205895488
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-06-23",
+      "otsu_vh_db": -15.626373291015625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6204841519579475,
+      "ref_water_frac": 0.013537695479654555
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-06-30",
+      "otsu_vh_db": -15.776496887207031,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6423483012635031,
+      "ref_water_frac": 0.01037117903930131
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-07-05",
+      "otsu_vh_db": -16.424816131591797,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6793295777874229,
+      "ref_water_frac": 0.016594594594594593
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-07-12",
+      "otsu_vh_db": -15.793212890625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6368204752604166,
+      "ref_water_frac": 0.012830793905372895
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-07-17",
+      "otsu_vh_db": -16.459442138671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6725539219232253,
+      "ref_water_frac": 0.009699794082583722
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-07-24",
+      "otsu_vh_db": -16.265701293945312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6526104962384259,
+      "ref_water_frac": 0.006635349383440987
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-07-29",
+      "otsu_vh_db": -16.097991943359375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6038825894579475,
+      "ref_water_frac": 0.007579135086937138
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-08-05",
+      "otsu_vh_db": -15.8870849609375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5937228732638888,
+      "ref_water_frac": 0.007857089911793047
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-08-10",
+      "otsu_vh_db": -16.618450164794922,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6293764467592593,
+      "ref_water_frac": 0.003949584712783876
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-08-22",
+      "otsu_vh_db": -15.732868194580078,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5565366391782407,
+      "ref_water_frac": 0.006319590731266927
+    },
+    {
+      "scene": "India_13",
+      "date": "2022-08-29",
+      "otsu_vh_db": -14.882423400878906,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5595205801504629,
+      "ref_water_frac": 0.008866308029487947
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-05-18",
+      "otsu_vh_db": -19.057586669921875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6363412362557871,
+      "ref_water_frac": 0.013950244129272262
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-05-25",
+      "otsu_vh_db": -18.980567932128906,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6925342701099537,
+      "ref_water_frac": 0.010986277517515857
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-05-30",
+      "otsu_vh_db": -19.068115234375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6839463975694444,
+      "ref_water_frac": 0.007402394145763716
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-06-06",
+      "otsu_vh_db": -19.019668579101562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6994124047550154,
+      "ref_water_frac": 0.008699894300349622
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-06-11",
+      "otsu_vh_db": -18.706520080566406,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7009804808063271,
+      "ref_water_frac": 0.017614251895839185
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-06-18",
+      "otsu_vh_db": -18.608795166015625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.4973724741994599,
+      "ref_water_frac": 0.032484358212728305
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-06-23",
+      "otsu_vh_db": -19.058883666992188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6407832392939815,
+      "ref_water_frac": 0.01435082810596146
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-06-30",
+      "otsu_vh_db": -18.91797637939453,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5359082634066358,
+      "ref_water_frac": 0.040689297446833035
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-07-05",
+      "otsu_vh_db": -19.024940490722656,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6438809618537809,
+      "ref_water_frac": 0.025466510411971514
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-07-12",
+      "otsu_vh_db": -18.6239013671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6695345654899691,
+      "ref_water_frac": 0.03126332849953084
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-07-17",
+      "otsu_vh_db": -18.850814819335938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6469417619116512,
+      "ref_water_frac": 0.008106904231625835
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-07-24",
+      "otsu_vh_db": -18.958946228027344,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6568709008487654,
+      "ref_water_frac": 0.014721300017473352
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-07-29",
+      "otsu_vh_db": -19.092185974121094,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6523211443865741,
+      "ref_water_frac": 0.006591753671916475
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-08-05",
+      "otsu_vh_db": -19.0570068359375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6788872612847222,
+      "ref_water_frac": 0.02564643354283545
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-08-10",
+      "otsu_vh_db": -19.10999298095703,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6472469376929012,
+      "ref_water_frac": 0.007263271162123386
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-08-22",
+      "otsu_vh_db": -19.168411254882812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6691939742476852,
+      "ref_water_frac": 0.004264574182267901
+    },
+    {
+      "scene": "India_14",
+      "date": "2022-08-29",
+      "otsu_vh_db": -18.754295349121094,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6769567418981481,
+      "ref_water_frac": 0.007953541219542988
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-05-18",
+      "otsu_vh_db": -15.549713134765625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6162373107156636,
+      "ref_water_frac": 0.004254274727971856
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-05-23",
+      "otsu_vh_db": -19.338008880615234,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9178783275462963,
+      "ref_water_frac": 0.12825442854441152
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-05-25",
+      "otsu_vh_db": -17.88330078125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7949392059702932,
+      "ref_water_frac": 0.024818447256120386
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-05-30",
+      "otsu_vh_db": -16.54522705078125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7181788315007716,
+      "ref_water_frac": 0.006126386878919441
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-06-04",
+      "otsu_vh_db": -18.172048568725586,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8768928433641975,
+      "ref_water_frac": 0.0538988144932376
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-06-06",
+      "otsu_vh_db": -16.51293182373047,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7455112786940586,
+      "ref_water_frac": 0.024257713953037066
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-06-11",
+      "otsu_vh_db": -15.3702392578125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6782196421682098,
+      "ref_water_frac": 0.024063210822459
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-06-16",
+      "otsu_vh_db": -17.95032501220703,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7563649872202932,
+      "ref_water_frac": 0.11167623975095366
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-06-18",
+      "otsu_vh_db": -17.353134155273438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6842041015625,
+      "ref_water_frac": 0.05282711588375999
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-06-23",
+      "otsu_vh_db": -17.499069213867188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6681322639371142,
+      "ref_water_frac": 0.020127780179660854
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-06-28",
+      "otsu_vh_db": -19.391002655029297,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8393057364004629,
+      "ref_water_frac": 0.3147894816841465
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-06-30",
+      "otsu_vh_db": -18.024322509765625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6488187813464507,
+      "ref_water_frac": 0.10297388156193432
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-07-05",
+      "otsu_vh_db": -17.224700927734375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6426353925540124,
+      "ref_water_frac": 0.019955654101995565
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-07-12",
+      "otsu_vh_db": -17.229354858398438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7106903452932098,
+      "ref_water_frac": 0.050132300132300134
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-07-17",
+      "otsu_vh_db": -16.639602661132812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6660073362750771,
+      "ref_water_frac": 0.013301153124161974
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-07-22",
+      "otsu_vh_db": -18.028732299804688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8032927336516203,
+      "ref_water_frac": 0.09292874559739908
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-07-24",
+      "otsu_vh_db": -16.687088012695312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7327895929783951,
+      "ref_water_frac": 0.04216133255089604
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-07-29",
+      "otsu_vh_db": -16.3861083984375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6602255738811729,
+      "ref_water_frac": 0.017379156188879575
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-08-03",
+      "otsu_vh_db": -17.585311889648438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7440245828510802,
+      "ref_water_frac": 0.06516754850088183
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-08-05",
+      "otsu_vh_db": -16.3699951171875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6653148509837963,
+      "ref_water_frac": 0.03958860032176511
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-08-10",
+      "otsu_vh_db": -16.018875122070312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6169780213155864,
+      "ref_water_frac": 0.0164173176221369
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-08-15",
+      "otsu_vh_db": -17.017131805419922,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6883597668306327,
+      "ref_water_frac": 0.04558625685604885
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-08-22",
+      "otsu_vh_db": -15.356536865234375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5516568407600309,
+      "ref_water_frac": 0.013530252501191043
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-08-27",
+      "otsu_vh_db": -16.170589447021484,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5667558834876543,
+      "ref_water_frac": 0.014419735927727589
+    },
+    {
+      "scene": "India_15",
+      "date": "2022-08-29",
+      "otsu_vh_db": -15.089340209960938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5561410409432871,
+      "ref_water_frac": 0.029417670682730924
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-05-18",
+      "otsu_vh_db": -13.541412353515625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5362820095486112,
+      "ref_water_frac": 0.010235558048233315
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-05-20",
+      "otsu_vh_db": -14.202136993408203,
+      "valid_frac": 0.6294156298225309,
+      "ref_agreement_frac": 0.5633173710044296,
+      "ref_water_frac": 0.04457162677766216
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-05-25",
+      "otsu_vh_db": -14.84442138671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6161190080054012,
+      "ref_water_frac": 0.033195970695970696
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-05-30",
+      "otsu_vh_db": -13.781681060791016,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5411098150559414,
+      "ref_water_frac": 0.0107746863066012
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-06-01",
+      "otsu_vh_db": -14.592988967895508,
+      "valid_frac": 0.6450368622202932,
+      "ref_agreement_frac": 0.5612915887391928,
+      "ref_water_frac": 0.04763542562338779
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-06-06",
+      "otsu_vh_db": -14.962432861328125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6101239993248457,
+      "ref_water_frac": 0.03293366552475864
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-06-13",
+      "otsu_vh_db": -14.092181205749512,
+      "valid_frac": 0.6456321433738426,
+      "ref_agreement_frac": 0.5675607857417126,
+      "ref_water_frac": 0.034667559872718134
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-06-18",
+      "otsu_vh_db": -14.28369140625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6014811197916666,
+      "ref_water_frac": 0.01884220654265555
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-06-23",
+      "otsu_vh_db": -13.801361083984375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5353077076099537,
+      "ref_water_frac": 0.010270118176702307
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-06-30",
+      "otsu_vh_db": -14.726058959960938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.610436710310571,
+      "ref_water_frac": 0.03189829979722352
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-07-05",
+      "otsu_vh_db": -13.801887512207031,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5366293824749229,
+      "ref_water_frac": 0.00824252584520816
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-07-07",
+      "otsu_vh_db": -14.54759407043457,
+      "valid_frac": 0.6427778079185957,
+      "ref_agreement_frac": 0.569565304038648,
+      "ref_water_frac": 0.04684684684684685
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-07-12",
+      "otsu_vh_db": -14.993545532226562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6115956247588734,
+      "ref_water_frac": 0.032719678217821783
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-07-17",
+      "otsu_vh_db": -13.959663391113281,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5449248890817902,
+      "ref_water_frac": 0.01202215318114278
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-07-19",
+      "otsu_vh_db": -14.667644500732422,
+      "valid_frac": 0.6402685848283179,
+      "ref_agreement_frac": 0.5611960885156343,
+      "ref_water_frac": 0.051916795599106065
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-07-24",
+      "otsu_vh_db": -14.97882080078125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6164980287905093,
+      "ref_water_frac": 0.03034660208869381
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-07-29",
+      "otsu_vh_db": -14.055904388427734,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5541283878279321,
+      "ref_water_frac": 0.012355212355212355
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-08-05",
+      "otsu_vh_db": -14.810165405273438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6150301709587191,
+      "ref_water_frac": 0.02904030855327838
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-08-10",
+      "otsu_vh_db": -13.93112564086914,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5332144278067129,
+      "ref_water_frac": 0.012284293653114946
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-08-12",
+      "otsu_vh_db": -14.600336074829102,
+      "valid_frac": 0.644579475308642,
+      "ref_agreement_frac": 0.5653664147837797,
+      "ref_water_frac": 0.05173288250211327
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-08-22",
+      "otsu_vh_db": -14.073715209960938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.549597469376929,
+      "ref_water_frac": 0.015997901914503017
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-08-24",
+      "otsu_vh_db": -14.666170120239258,
+      "valid_frac": 0.6407146689332561,
+      "ref_agreement_frac": 0.5691859883922639,
+      "ref_water_frac": 0.05001661681621801
+    },
+    {
+      "scene": "India_16",
+      "date": "2022-08-29",
+      "otsu_vh_db": -14.850662231445312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.606530460310571,
+      "ref_water_frac": 0.030965682362330407
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-05-23",
+      "otsu_vh_db": -14.815347671508789,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6297268337673612,
+      "ref_water_frac": 0.06506766064338385
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-05-25",
+      "otsu_vh_db": -14.635528564453125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5888347861207561,
+      "ref_water_frac": 0.05944220114564748
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-06-04",
+      "otsu_vh_db": -14.625548362731934,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5817012080439815,
+      "ref_water_frac": 0.05847892038916205
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-06-06",
+      "otsu_vh_db": -14.8603515625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5970956307870371,
+      "ref_water_frac": 0.05504418262150221
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-06-16",
+      "otsu_vh_db": -15.104066848754883,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7117271894290124,
+      "ref_water_frac": 0.050430156214625314
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-06-18",
+      "otsu_vh_db": -15.312286376953125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7016164520640432,
+      "ref_water_frac": 0.06907111262334127
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-06-28",
+      "otsu_vh_db": -15.22431755065918,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7312185028452932,
+      "ref_water_frac": 0.053393712811331685
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-06-30",
+      "otsu_vh_db": -15.0870361328125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7082331151138117,
+      "ref_water_frac": 0.04474296594034271
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-07-12",
+      "otsu_vh_db": -15.5947265625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.673254695939429,
+      "ref_water_frac": 0.05896868079721607
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-07-22",
+      "otsu_vh_db": -15.848716735839844,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7286196108217593,
+      "ref_water_frac": 0.04269311064718163
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-07-24",
+      "otsu_vh_db": -15.2894287109375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6995035807291666,
+      "ref_water_frac": 0.032471763683753256
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-08-03",
+      "otsu_vh_db": -15.857492446899414,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7168074242862654,
+      "ref_water_frac": 0.03823782852218871
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-08-05",
+      "otsu_vh_db": -15.743072509765625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6663177866994598,
+      "ref_water_frac": 0.04810331919141502
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-08-15",
+      "otsu_vh_db": -15.628843307495117,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7267599223572531,
+      "ref_water_frac": 0.03410142989404382
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-08-27",
+      "otsu_vh_db": -15.43200969696045,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6508397231867284,
+      "ref_water_frac": 0.04578795287841743
+    },
+    {
+      "scene": "India_17",
+      "date": "2022-08-29",
+      "otsu_vh_db": -15.183212280273438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6211027922453703,
+      "ref_water_frac": 0.05001150571450487
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-05-18",
+      "otsu_vh_db": -17.599594116210938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7360613787615741,
+      "ref_water_frac": 0.151185349926655
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-05-20",
+      "otsu_vh_db": -16.77752685546875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7346515420042439,
+      "ref_water_frac": 0.13263243024666396
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-05-25",
+      "otsu_vh_db": -15.444488525390625,
+      "valid_frac": 0.7458895459587191,
+      "ref_agreement_frac": 0.568192081206377,
+      "ref_water_frac": 0.00716275368085953
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-05-30",
+      "otsu_vh_db": -15.552093505859375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6645002953800154,
+      "ref_water_frac": 0.0843433623271068
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-06-01",
+      "otsu_vh_db": -15.886043548583984,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6951452184606481,
+      "ref_water_frac": 0.10849025437727122
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-06-06",
+      "otsu_vh_db": -15.6964111328125,
+      "valid_frac": 0.7250177830825617,
+      "ref_agreement_frac": 0.5711461752240239,
+      "ref_water_frac": 0.00516795865633075
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-06-11",
+      "otsu_vh_db": -16.499237060546875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6655913929880402,
+      "ref_water_frac": 0.09512013871686896
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-06-13",
+      "otsu_vh_db": -16.231914520263672,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.661047664689429,
+      "ref_water_frac": 0.10833585935131858
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-06-18",
+      "otsu_vh_db": -16.909942626953125,
+      "valid_frac": 0.7362942165798612,
+      "ref_agreement_frac": 0.5122792151372527,
+      "ref_water_frac": 0.007667031763417305
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-06-23",
+      "otsu_vh_db": -16.782608032226562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7415417329764661,
+      "ref_water_frac": 0.1368633831287285
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-06-30",
+      "otsu_vh_db": -16.5972900390625,
+      "valid_frac": 0.7257780852141203,
+      "ref_agreement_frac": 0.5076667673744242,
+      "ref_water_frac": 0.004697592483852026
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-07-05",
+      "otsu_vh_db": -16.696563720703125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7079904815297068,
+      "ref_water_frac": 0.12310969116080937
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-07-07",
+      "otsu_vh_db": -16.35289764404297,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7221302927276234,
+      "ref_water_frac": 0.10823075318172334
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-07-12",
+      "otsu_vh_db": -15.90350341796875,
+      "valid_frac": 0.7284041039737654,
+      "ref_agreement_frac": 0.59588193671457,
+      "ref_water_frac": 0.009929227844089996
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-07-17",
+      "otsu_vh_db": -17.165496826171875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6897816599151234,
+      "ref_water_frac": 0.11645169781521453
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-07-19",
+      "otsu_vh_db": -17.173866271972656,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7004567840952932,
+      "ref_water_frac": 0.12257022252332066
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-07-24",
+      "otsu_vh_db": -16.367156982421875,
+      "valid_frac": 0.7313352985146605,
+      "ref_agreement_frac": 0.5580892641140457,
+      "ref_water_frac": 0.0067035539476484355
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-07-29",
+      "otsu_vh_db": -17.055572509765625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6338666751060957,
+      "ref_water_frac": 0.10404660486093711
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-08-05",
+      "otsu_vh_db": -16.082199096679688,
+      "valid_frac": 0.7273860978491512,
+      "ref_agreement_frac": 0.5250917574226912,
+      "ref_water_frac": 0.0019468780419969406
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-08-10",
+      "otsu_vh_db": -17.184799194335938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5953813717689043,
+      "ref_water_frac": 0.08836401528308441
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-08-12",
+      "otsu_vh_db": -16.772350311279297,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6544362762827932,
+      "ref_water_frac": 0.1332162399513612
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-08-22",
+      "otsu_vh_db": -16.19000244140625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6034862377025463,
+      "ref_water_frac": 0.09277546777546777
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-08-24",
+      "otsu_vh_db": -16.333431243896484,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.611218864535108,
+      "ref_water_frac": 0.1033157938695398
+    },
+    {
+      "scene": "India_18",
+      "date": "2022-08-29",
+      "otsu_vh_db": -15.26556396484375,
+      "valid_frac": 0.7301176094714507,
+      "ref_agreement_frac": 0.5248239832724766,
+      "ref_water_frac": 0.0012130401819560274
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-05-18",
+      "otsu_vh_db": -13.207550048828125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5150523244598766,
+      "ref_water_frac": 0.03142983621071271
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-05-23",
+      "otsu_vh_db": -14.229349136352539,
+      "valid_frac": 0.7489963107638888,
+      "ref_agreement_frac": 0.6338908808486151,
+      "ref_water_frac": 0.0726828184040898
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-05-25",
+      "otsu_vh_db": -13.82855224609375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5751124252507716,
+      "ref_water_frac": 0.06399325400543428
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-05-30",
+      "otsu_vh_db": -13.466930389404297,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5206758475597993,
+      "ref_water_frac": 0.03415184871577759
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-06-04",
+      "otsu_vh_db": -14.222517013549805,
+      "valid_frac": 0.7309494960455247,
+      "ref_agreement_frac": 0.6387222873966801,
+      "ref_water_frac": 0.07072277117797268
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-06-06",
+      "otsu_vh_db": -13.708969116210938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5600563331886574,
+      "ref_water_frac": 0.064778547755348
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-06-11",
+      "otsu_vh_db": -13.026439666748047,
+      "valid_frac": 0.38378002025462965,
+      "ref_agreement_frac": 0.47958242034414783,
+      "ref_water_frac": 0.01794145420207743
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-06-16",
+      "otsu_vh_db": -13.86789321899414,
+      "valid_frac": 0.754163200472608,
+      "ref_agreement_frac": 0.6327882316384125,
+      "ref_water_frac": 0.047924364268637255
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-06-18",
+      "otsu_vh_db": -13.117439270019531,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5538315007716049,
+      "ref_water_frac": 0.0324688584847866
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-06-23",
+      "otsu_vh_db": -13.102542877197266,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5227013105227624,
+      "ref_water_frac": 0.024203821656050957
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-06-28",
+      "otsu_vh_db": -13.982564926147461,
+      "valid_frac": 0.7434654706790124,
+      "ref_agreement_frac": 0.6409711186066877,
+      "ref_water_frac": 0.051273885350318474
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-06-30",
+      "otsu_vh_db": -13.519134521484375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5556301540798612,
+      "ref_water_frac": 0.05347215202668554
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-07-05",
+      "otsu_vh_db": -13.51205062866211,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5327291606385031,
+      "ref_water_frac": 0.033109017496635265
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-07-12",
+      "otsu_vh_db": -13.924102783203125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5894782925829475,
+      "ref_water_frac": 0.05694945848375451
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-07-17",
+      "otsu_vh_db": -13.544742584228516,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5181070963541666,
+      "ref_water_frac": 0.0359882005899705
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-07-22",
+      "otsu_vh_db": -14.349601745605469,
+      "valid_frac": 0.7386060173128858,
+      "ref_agreement_frac": 0.6352719374581084,
+      "ref_water_frac": 0.07497511887647905
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-07-24",
+      "otsu_vh_db": -14.037910461425781,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5867030767746914,
+      "ref_water_frac": 0.05738442165857169
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-07-29",
+      "otsu_vh_db": -13.554872512817383,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5196525667920525,
+      "ref_water_frac": 0.03664233576642336
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-08-03",
+      "otsu_vh_db": -14.251983642578125,
+      "valid_frac": 0.7381757571373457,
+      "ref_agreement_frac": 0.644324014225692,
+      "ref_water_frac": 0.06112417183158795
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-08-05",
+      "otsu_vh_db": -14.072349548339844,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5849315502025463,
+      "ref_water_frac": 0.07020109689213894
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-08-10",
+      "otsu_vh_db": -13.576391220092773,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5157116548514661,
+      "ref_water_frac": 0.0336033603360336
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-08-15",
+      "otsu_vh_db": -14.33620834350586,
+      "valid_frac": 0.7429907527970679,
+      "ref_agreement_frac": 0.6481451807558827,
+      "ref_water_frac": 0.06614090431125132
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-08-22",
+      "otsu_vh_db": -13.68136215209961,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5255556459780093,
+      "ref_water_frac": 0.03575466365178067
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-08-27",
+      "otsu_vh_db": -14.28645133972168,
+      "valid_frac": 0.7491379726080247,
+      "ref_agreement_frac": 0.6509720534629405,
+      "ref_water_frac": 0.055925962782366404
+    },
+    {
+      "scene": "India_19",
+      "date": "2022-08-29",
+      "otsu_vh_db": -13.661308288574219,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5765697337962963,
+      "ref_water_frac": 0.051928504233301975
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-05-23",
+      "otsu_vh_db": -16.802581787109375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8262585298514661,
+      "ref_water_frac": 0.16122110206890966
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-05-25",
+      "otsu_vh_db": -16.24156951904297,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8232173213252315,
+      "ref_water_frac": 0.157823352924253
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-06-04",
+      "otsu_vh_db": -16.604476928710938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8326446156442902,
+      "ref_water_frac": 0.1724151648963679
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-06-06",
+      "otsu_vh_db": -16.351913452148438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8284407250675154,
+      "ref_water_frac": 0.17599161560786844
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-06-16",
+      "otsu_vh_db": -17.9283447265625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.853467399691358,
+      "ref_water_frac": 0.3064601635867919
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-06-18",
+      "otsu_vh_db": -17.418182373046875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7750748999324846,
+      "ref_water_frac": 0.24794991623313642
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-06-28",
+      "otsu_vh_db": -18.671539306640625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8419038749035493,
+      "ref_water_frac": 0.3799103928314265
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-06-30",
+      "otsu_vh_db": -17.716445922851562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8184490439332561,
+      "ref_water_frac": 0.3412813102119461
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-07-12",
+      "otsu_vh_db": -17.641830444335938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.803698127652392,
+      "ref_water_frac": 0.2762713261353334
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-07-22",
+      "otsu_vh_db": -18.425308227539062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8295325761959876,
+      "ref_water_frac": 0.30638523287559594
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-07-24",
+      "otsu_vh_db": -17.574256896972656,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8123236762152778,
+      "ref_water_frac": 0.284350837628866
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-08-03",
+      "otsu_vh_db": -18.686126708984375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8123801902488426,
+      "ref_water_frac": 0.33069407008086255
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-08-05",
+      "otsu_vh_db": -18.01714324951172,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7847026306905864,
+      "ref_water_frac": 0.28435751767205864
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-08-15",
+      "otsu_vh_db": -18.176513671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7892817744502315,
+      "ref_water_frac": 0.2869140796763697
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-08-27",
+      "otsu_vh_db": -18.048980712890625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7951577269000771,
+      "ref_water_frac": 0.22603507827569191
+    },
+    {
+      "scene": "India_21",
+      "date": "2022-08-29",
+      "otsu_vh_db": -17.54638671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8042308666087963,
+      "ref_water_frac": 0.2120673202047367
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-05-18",
+      "otsu_vh_db": -14.04876708984375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5536604516300154,
+      "ref_water_frac": 0.012467461296067954
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-05-20",
+      "otsu_vh_db": -13.825563430786133,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5523131570698302,
+      "ref_water_frac": 0.016191210485736313
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-05-25",
+      "otsu_vh_db": -14.452117919921875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5563053084008488,
+      "ref_water_frac": 0.00840140023337223
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-05-30",
+      "otsu_vh_db": -14.4354248046875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5574657298900463,
+      "ref_water_frac": 0.008934351935776253
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-06-01",
+      "otsu_vh_db": -14.130802154541016,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5573278356481481,
+      "ref_water_frac": 0.018946570670708603
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-06-06",
+      "otsu_vh_db": -14.679367065429688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5735511308834876,
+      "ref_water_frac": 0.006859280814799418
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-06-11",
+      "otsu_vh_db": -14.472320556640625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5495876736111112,
+      "ref_water_frac": 0.008851931330472103
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-06-13",
+      "otsu_vh_db": -13.774639129638672,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5530779803240741,
+      "ref_water_frac": 0.010047593865679535
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-06-18",
+      "otsu_vh_db": -14.194244384765625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5587052710262346,
+      "ref_water_frac": 0.006661213041953956
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-06-23",
+      "otsu_vh_db": -14.265777587890625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5653505678530093,
+      "ref_water_frac": 0.016265813985819548
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-06-30",
+      "otsu_vh_db": -14.34124755859375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5586879400559414,
+      "ref_water_frac": 0.008013598834385623
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-07-05",
+      "otsu_vh_db": -14.342361450195312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5748275945216049,
+      "ref_water_frac": 0.014563106796116505
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-07-07",
+      "otsu_vh_db": -14.423904418945312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5844251844618056,
+      "ref_water_frac": 0.02087431693989071
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-07-12",
+      "otsu_vh_db": -14.271026611328125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5773277753665124,
+      "ref_water_frac": 0.007866582756450597
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-07-17",
+      "otsu_vh_db": -14.134017944335938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5886185257523148,
+      "ref_water_frac": 0.0192195690157251
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-07-19",
+      "otsu_vh_db": -14.5897216796875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5940393518518519,
+      "ref_water_frac": 0.023784901758014478
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-07-24",
+      "otsu_vh_db": -14.19873046875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5880051601080247,
+      "ref_water_frac": 0.01081671132281433
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-07-29",
+      "otsu_vh_db": -14.499832153320312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5783435209297839,
+      "ref_water_frac": 0.019307832422586522
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-08-05",
+      "otsu_vh_db": -14.816680908203125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6170933099440586,
+      "ref_water_frac": 0.012746331236897274
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-08-10",
+      "otsu_vh_db": -14.641372680664062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6097457320601852,
+      "ref_water_frac": 0.013176710929519919
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-08-12",
+      "otsu_vh_db": -14.662406921386719,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6061243127893519,
+      "ref_water_frac": 0.020784996133023974
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-08-22",
+      "otsu_vh_db": -14.557708740234375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5708866825810185,
+      "ref_water_frac": 0.012051282051282051
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-08-24",
+      "otsu_vh_db": -14.565879821777344,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5587956934799383,
+      "ref_water_frac": 0.02431077694235589
+    },
+    {
+      "scene": "India_22",
+      "date": "2022-08-29",
+      "otsu_vh_db": -14.624404907226562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5699214228877315,
+      "ref_water_frac": 0.011649839121269278
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-05-18",
+      "otsu_vh_db": -13.305519104003906,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5199999397183642,
+      "ref_water_frac": 0.003485721946641641
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-05-23",
+      "otsu_vh_db": -13.478835105895996,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5798739209587191,
+      "ref_water_frac": 0.05914690013234246
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-05-25",
+      "otsu_vh_db": -14.946708679199219,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6692535023630402,
+      "ref_water_frac": 0.05977776457305841
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-05-30",
+      "otsu_vh_db": -13.412532806396484,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5114173418209876,
+      "ref_water_frac": 0.004721435316336166
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-06-04",
+      "otsu_vh_db": -13.430740356445312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5765501422646605,
+      "ref_water_frac": 0.05041313670118189
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-06-06",
+      "otsu_vh_db": -14.792243957519531,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6615208755304784,
+      "ref_water_frac": 0.05217865583904006
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-06-16",
+      "otsu_vh_db": -13.093513488769531,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5736513491030093,
+      "ref_water_frac": 0.03402072647335915
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-06-18",
+      "otsu_vh_db": -14.335746765136719,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6458634741512346,
+      "ref_water_frac": 0.0305825856186023
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-06-23",
+      "otsu_vh_db": -13.227123260498047,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5067613389756944,
+      "ref_water_frac": 0.002886002886002886
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-06-28",
+      "otsu_vh_db": -13.317703247070312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5846263744212963,
+      "ref_water_frac": 0.03744979919678715
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-06-30",
+      "otsu_vh_db": -14.561408996582031,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.657788688753858,
+      "ref_water_frac": 0.0454349565966878
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-07-05",
+      "otsu_vh_db": -13.448219299316406,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5242588372878086,
+      "ref_water_frac": 0.004641909814323607
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-07-12",
+      "otsu_vh_db": -15.007766723632812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.66790771484375,
+      "ref_water_frac": 0.05540298507462687
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-07-17",
+      "otsu_vh_db": -13.605443954467773,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5201958550347222,
+      "ref_water_frac": 0.006508168415460221
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-07-22",
+      "otsu_vh_db": -13.61703109741211,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5873744634934414,
+      "ref_water_frac": 0.05782105903834449
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-07-24",
+      "otsu_vh_db": -15.048694610595703,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.677991325472608,
+      "ref_water_frac": 0.05834534447967714
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-07-29",
+      "otsu_vh_db": -13.701265335083008,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.523840633439429,
+      "ref_water_frac": 0.006363515842502983
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-08-03",
+      "otsu_vh_db": -13.543567657470703,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5804774908371914,
+      "ref_water_frac": 0.05434103685196752
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-08-05",
+      "otsu_vh_db": -15.244346618652344,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6826744550540124,
+      "ref_water_frac": 0.0648074520049983
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-08-10",
+      "otsu_vh_db": -13.792016983032227,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5276707778742284,
+      "ref_water_frac": 0.0068484130119847225
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-08-15",
+      "otsu_vh_db": -13.84030532836914,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5953293788580247,
+      "ref_water_frac": 0.06102962890048233
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-08-22",
+      "otsu_vh_db": -13.75539493560791,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5192675178433642,
+      "ref_water_frac": 0.006759553041798869
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-08-27",
+      "otsu_vh_db": -13.756824493408203,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5837575653452932,
+      "ref_water_frac": 0.05714881635207008
+    },
+    {
+      "scene": "India_23",
+      "date": "2022-08-29",
+      "otsu_vh_db": -14.773818969726562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6664745189525463,
+      "ref_water_frac": 0.04555262526971949
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-05-18",
+      "otsu_vh_db": -16.27094268798828,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8154003002025463,
+      "ref_water_frac": 0.026334492948789884
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-05-20",
+      "otsu_vh_db": -18.278831481933594,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9219782323013117,
+      "ref_water_frac": 0.05569813626642224
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-05-25",
+      "otsu_vh_db": -16.3009033203125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8154831874517747,
+      "ref_water_frac": 0.024078225245420113
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-05-30",
+      "otsu_vh_db": -15.840446472167969,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7377696096161266,
+      "ref_water_frac": 0.01520043713675426
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-06-01",
+      "otsu_vh_db": -16.966201782226562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8793696650752315,
+      "ref_water_frac": 0.03854662465643226
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-06-06",
+      "otsu_vh_db": -15.932769775390625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.748254093123071,
+      "ref_water_frac": 0.02127450980392157
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-06-11",
+      "otsu_vh_db": -16.1466064453125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8154741452064043,
+      "ref_water_frac": 0.012601329286564985
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-06-13",
+      "otsu_vh_db": -17.563034057617188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9356109242380402,
+      "ref_water_frac": 0.03932417157475162
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-06-18",
+      "otsu_vh_db": -17.425872802734375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8338653187692902,
+      "ref_water_frac": 0.03709773020466511
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-06-23",
+      "otsu_vh_db": -17.725557327270508,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8149640118634259,
+      "ref_water_frac": 0.04515508706954881
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-06-30",
+      "otsu_vh_db": -17.7391357421875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7478170512635031,
+      "ref_water_frac": 0.045202729827378565
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-07-05",
+      "otsu_vh_db": -17.789363861083984,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8147876880787037,
+      "ref_water_frac": 0.04892802176169512
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-07-07",
+      "otsu_vh_db": -18.579919815063477,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9120927975501543,
+      "ref_water_frac": 0.08666374342270108
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-07-12",
+      "otsu_vh_db": -17.091934204101562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8485544463734568,
+      "ref_water_frac": 0.051009237085186454
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-07-17",
+      "otsu_vh_db": -16.943870544433594,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8603048442322531,
+      "ref_water_frac": 0.03332995643805085
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-07-19",
+      "otsu_vh_db": -18.08026885986328,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9201147762345679,
+      "ref_water_frac": 0.04876407244248654
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-07-24",
+      "otsu_vh_db": -16.911712646484375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8779198917341821,
+      "ref_water_frac": 0.03824247355573637
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-07-29",
+      "otsu_vh_db": -17.017562866210938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8568627628279321,
+      "ref_water_frac": 0.030313305303133052
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-08-05",
+      "otsu_vh_db": -16.865585327148438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8559871720679012,
+      "ref_water_frac": 0.03291827187671987
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-08-10",
+      "otsu_vh_db": -17.205991744995117,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8371898509837963,
+      "ref_water_frac": 0.026160249011995942
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-08-12",
+      "otsu_vh_db": -18.115692138671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9127039026331019,
+      "ref_water_frac": 0.04166017996699567
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-08-22",
+      "otsu_vh_db": -16.908729553222656,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8364853093653549,
+      "ref_water_frac": 0.022808952780841902
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-08-24",
+      "otsu_vh_db": -17.98138427734375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8945033697434414,
+      "ref_water_frac": 0.033674121405750795
+    },
+    {
+      "scene": "India_24",
+      "date": "2022-08-29",
+      "otsu_vh_db": -16.6597900390625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8771565755208334,
+      "ref_water_frac": 0.028877320498968666
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-05-18",
+      "otsu_vh_db": -13.403447151184082,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5228105709876543,
+      "ref_water_frac": 0.0010398613518197574
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-05-20",
+      "otsu_vh_db": -13.514625549316406,
+      "valid_frac": 0.33347273461612653,
+      "ref_agreement_frac": 0.5489760548454083,
+      "ref_water_frac": 0.01888308557653676
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-05-25",
+      "otsu_vh_db": -13.672721862792969,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5529491283275463,
+      "ref_water_frac": 0.007130534790109258
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-05-30",
+      "otsu_vh_db": -13.44890308380127,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5275863835841049,
+      "ref_water_frac": 0.002051983584131327
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-06-01",
+      "otsu_vh_db": -13.532390594482422,
+      "valid_frac": 0.34738648967978397,
+      "ref_agreement_frac": 0.5440351569786863,
+      "ref_water_frac": 0.016693163751987282
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-06-06",
+      "otsu_vh_db": -13.95720100402832,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5533582899305556,
+      "ref_water_frac": 0.011237284125857581
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-06-11",
+      "otsu_vh_db": -13.53139877319336,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5355428059895834,
+      "ref_water_frac": 0.0005231037489102005
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-06-13",
+      "otsu_vh_db": -13.493255615234375,
+      "valid_frac": 0.34782805266203703,
+      "ref_agreement_frac": 0.5531234564691814,
+      "ref_water_frac": 0.01548586914440573
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-06-18",
+      "otsu_vh_db": -13.758647918701172,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5520117488908179,
+      "ref_water_frac": 0.008205494113449875
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-06-23",
+      "otsu_vh_db": -13.688989639282227,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5299494237075617,
+      "ref_water_frac": 0.0012369676621311187
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-06-30",
+      "otsu_vh_db": -13.76913833618164,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5518331645447531,
+      "ref_water_frac": 0.005512282804074296
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-07-05",
+      "otsu_vh_db": -13.807073593139648,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5313487111786266,
+      "ref_water_frac": 0.001404001404001404
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-07-07",
+      "otsu_vh_db": -13.91903305053711,
+      "valid_frac": 0.34511613257137347,
+      "ref_agreement_frac": 0.5589720636237596,
+      "ref_water_frac": 0.020610687022900764
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-07-12",
+      "otsu_vh_db": -14.11864948272705,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.563683780623071,
+      "ref_water_frac": 0.011126095751854349
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-07-17",
+      "otsu_vh_db": -13.86904525756836,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5370053891782407,
+      "ref_water_frac": 0.001380738695201933
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-07-19",
+      "otsu_vh_db": -14.107414245605469,
+      "valid_frac": 0.3430582682291667,
+      "ref_agreement_frac": 0.561670554435351,
+      "ref_water_frac": 0.02697495183044316
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-07-24",
+      "otsu_vh_db": -14.03193473815918,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5737688982928241,
+      "ref_water_frac": 0.011361129494815795
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-07-29",
+      "otsu_vh_db": -13.880743026733398,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5213871708622685,
+      "ref_water_frac": 0.002245088868101029
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-08-05",
+      "otsu_vh_db": -14.168947219848633,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5565939067322531,
+      "ref_water_frac": 0.010422906433449144
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-08-10",
+      "otsu_vh_db": -14.14264965057373,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5333560896508488,
+      "ref_water_frac": 0.0017834849295523454
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-08-12",
+      "otsu_vh_db": -14.117385864257812,
+      "valid_frac": 0.3465794692804784,
+      "ref_agreement_frac": 0.5610168128066929,
+      "ref_water_frac": 0.026497695852534562
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-08-22",
+      "otsu_vh_db": -14.155186653137207,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5318867247781636,
+      "ref_water_frac": 0.0007287301876480233
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-08-24",
+      "otsu_vh_db": -14.154541015625,
+      "valid_frac": 0.34344557773919754,
+      "ref_agreement_frac": 0.5539878188982598,
+      "ref_water_frac": 0.030837004405286344
+    },
+    {
+      "scene": "India_26",
+      "date": "2022-08-29",
+      "otsu_vh_db": -14.144367218017578,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5679034951292439,
+      "ref_water_frac": 0.009520609318996415
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-05-18",
+      "otsu_vh_db": -20.131874084472656,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7867928964120371,
+      "ref_water_frac": 0.11836719643054684
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-05-20",
+      "otsu_vh_db": -21.218338012695312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9457939995659722,
+      "ref_water_frac": 0.3255170316301703
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-05-25",
+      "otsu_vh_db": -18.47673797607422,
+      "valid_frac": 0.5419401945891203,
+      "ref_agreement_frac": 0.6384565864537667,
+      "ref_water_frac": 0.007634250021688211
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-05-30",
+      "otsu_vh_db": -20.11724853515625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7871357482156636,
+      "ref_water_frac": 0.08153817435131604
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-06-01",
+      "otsu_vh_db": -21.011035919189453,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.952623908902392,
+      "ref_water_frac": 0.2346698113207547
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-06-06",
+      "otsu_vh_db": -18.51367950439453,
+      "valid_frac": 0.5207120165412809,
+      "ref_agreement_frac": 0.6395818470448122,
+      "ref_water_frac": 0.013427625100707188
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-06-11",
+      "otsu_vh_db": -20.209503173828125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8008166654610339,
+      "ref_water_frac": 0.1170907778379354
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-06-13",
+      "otsu_vh_db": -20.75164794921875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9552295826099537,
+      "ref_water_frac": 0.30421193630004467
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-06-18",
+      "otsu_vh_db": -18.645477294921875,
+      "valid_frac": 0.5322664990837191,
+      "ref_agreement_frac": 0.4354002771906627,
+      "ref_water_frac": 0.04270516717325228
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-06-23",
+      "otsu_vh_db": -19.60240936279297,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7593074845679012,
+      "ref_water_frac": 0.14020697585281716
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-06-30",
+      "otsu_vh_db": -18.55744171142578,
+      "valid_frac": 0.5215461636766975,
+      "ref_agreement_frac": 0.49188754973661625,
+      "ref_water_frac": 0.05777892163170763
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-07-05",
+      "otsu_vh_db": -19.97705841064453,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8322693624614198,
+      "ref_water_frac": 0.21744223192418272
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-07-07",
+      "otsu_vh_db": -20.68799591064453,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9345996997974537,
+      "ref_water_frac": 0.2832140257219122
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-07-12",
+      "otsu_vh_db": -18.35741424560547,
+      "valid_frac": 0.5242302035108025,
+      "ref_agreement_frac": 0.5990631126852071,
+      "ref_water_frac": 0.010588455772113942
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-07-17",
+      "otsu_vh_db": -19.792251586914062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7272715627411266,
+      "ref_water_frac": 0.053024555799560794
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-07-19",
+      "otsu_vh_db": -20.76905059814453,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9412615740740741,
+      "ref_water_frac": 0.27102384794692486
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-07-24",
+      "otsu_vh_db": -18.415687561035156,
+      "valid_frac": 0.5271199544270834,
+      "ref_agreement_frac": 0.6084958322790737,
+      "ref_water_frac": 0.011652063950862613
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-07-29",
+      "otsu_vh_db": -20.13520050048828,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7568826557677469,
+      "ref_water_frac": 0.08671860155804674
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-08-05",
+      "otsu_vh_db": -18.552337646484375,
+      "valid_frac": 0.5231036904417439,
+      "ref_agreement_frac": 0.6028625220213393,
+      "ref_water_frac": 0.005212696639672345
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-08-10",
+      "otsu_vh_db": -20.123428344726562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.77435302734375,
+      "ref_water_frac": 0.0922517524459272
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-08-12",
+      "otsu_vh_db": -21.171127319335938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9510701497395834,
+      "ref_water_frac": 0.2811864856107691
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-08-22",
+      "otsu_vh_db": -20.293014526367188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7208553361304012,
+      "ref_water_frac": 0.04983936073811682
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-08-24",
+      "otsu_vh_db": -21.317832946777344,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9268489884741512,
+      "ref_water_frac": 0.26610789393477596
+    },
+    {
+      "scene": "India_28",
+      "date": "2022-08-29",
+      "otsu_vh_db": -18.206878662109375,
+      "valid_frac": 0.5259557653356481,
+      "ref_agreement_frac": 0.6201464760644013,
+      "ref_water_frac": 0.007842791681353543
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-05-18",
+      "otsu_vh_db": -15.199859619140625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5699598524305556,
+      "ref_water_frac": 0.017189418461881906
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-05-23",
+      "otsu_vh_db": -15.795696258544922,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5787534360532407,
+      "ref_water_frac": 0.017728647408488892
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-05-25",
+      "otsu_vh_db": -15.212112426757812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5500458140432098,
+      "ref_water_frac": 0.014709548740962353
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-05-30",
+      "otsu_vh_db": -15.933456420898438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5421843352141203,
+      "ref_water_frac": 0.0019973368841544607
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-06-04",
+      "otsu_vh_db": -15.759649276733398,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5415438428337191,
+      "ref_water_frac": 0.0014978067829250026
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-06-06",
+      "otsu_vh_db": -15.076507568359375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5486231674382716,
+      "ref_water_frac": 0.010961436872688853
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-06-11",
+      "otsu_vh_db": -15.834625244140625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5395131052276234,
+      "ref_water_frac": 0.0020359687818120122
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-06-16",
+      "otsu_vh_db": -15.646018981933594,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6848204812885802,
+      "ref_water_frac": 0.026904702036711088
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-06-18",
+      "otsu_vh_db": -15.428298950195312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6521282431520061,
+      "ref_water_frac": 0.018892794376098417
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-06-23",
+      "otsu_vh_db": -15.36737060546875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5979659469039352,
+      "ref_water_frac": 0.02348357203032856
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-06-28",
+      "otsu_vh_db": -15.195213317871094,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6122225537712191,
+      "ref_water_frac": 0.03324163227877121
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-06-30",
+      "otsu_vh_db": -15.36370849609375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5935367537133488,
+      "ref_water_frac": 0.04191270116938752
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-07-05",
+      "otsu_vh_db": -15.649002075195312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6509293921199846,
+      "ref_water_frac": 0.024348600697795264
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-07-12",
+      "otsu_vh_db": -15.862625122070312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7004974741994598,
+      "ref_water_frac": 0.024445837369650694
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-07-17",
+      "otsu_vh_db": -15.754364013671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6003741982542439,
+      "ref_water_frac": 0.012322453202897187
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-07-22",
+      "otsu_vh_db": -16.369293212890625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6989022714120371,
+      "ref_water_frac": 0.03379290114403051
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-07-24",
+      "otsu_vh_db": -15.781051635742188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6714680989583334,
+      "ref_water_frac": 0.034333621664781426
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-07-29",
+      "otsu_vh_db": -15.952072143554688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6470675998263888,
+      "ref_water_frac": 0.014016994698235166
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-08-03",
+      "otsu_vh_db": -15.957923889160156,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6526564609857253,
+      "ref_water_frac": 0.009422110552763818
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-08-05",
+      "otsu_vh_db": -15.605331420898438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5837975019290124,
+      "ref_water_frac": 0.014705882352941176
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-08-10",
+      "otsu_vh_db": -15.799453735351562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.65771484375,
+      "ref_water_frac": 0.015492566347089065
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-08-15",
+      "otsu_vh_db": -15.292593002319336,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6154031635802469,
+      "ref_water_frac": 0.011085694175611473
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-08-22",
+      "otsu_vh_db": -15.272369384765625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5597255377121914,
+      "ref_water_frac": 0.006279636037421504
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-08-27",
+      "otsu_vh_db": -15.732006072998047,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6309565791377315,
+      "ref_water_frac": 0.035767265534860725
+    },
+    {
+      "scene": "India_29",
+      "date": "2022-08-29",
+      "otsu_vh_db": -14.939605712890625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5786682882426698,
+      "ref_water_frac": 0.009024064171122994
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-05-18",
+      "otsu_vh_db": -17.971298217773438,
+      "valid_frac": 0.691149299527392,
+      "ref_agreement_frac": 0.6277268331612567,
+      "ref_water_frac": 0.02209070263574427
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-05-23",
+      "otsu_vh_db": -18.903175354003906,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8850323712384259,
+      "ref_water_frac": 0.10350281741193529
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-05-25",
+      "otsu_vh_db": -17.060806274414062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7996652862172068,
+      "ref_water_frac": 0.02384406502250493
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-05-30",
+      "otsu_vh_db": -16.738296508789062,
+      "valid_frac": 0.7089067623939043,
+      "ref_agreement_frac": 0.6842164004196459,
+      "ref_water_frac": 0.013783745179260105
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-06-04",
+      "otsu_vh_db": -18.18438720703125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8482439959490741,
+      "ref_water_frac": 0.0636174489544028
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-06-06",
+      "otsu_vh_db": -16.781570434570312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7763355396412037,
+      "ref_water_frac": 0.016115871073031415
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-06-11",
+      "otsu_vh_db": -16.4920654296875,
+      "valid_frac": 0.7115056544174383,
+      "ref_agreement_frac": 0.7075188352138541,
+      "ref_water_frac": 0.015046375815870835
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-06-16",
+      "otsu_vh_db": -19.730892181396484,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8700757438753858,
+      "ref_water_frac": 0.2847700945206453
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-06-18",
+      "otsu_vh_db": -18.098342895507812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7216239269868827,
+      "ref_water_frac": 0.05481574539363484
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-06-23",
+      "otsu_vh_db": -17.126144409179688,
+      "valid_frac": 0.7095487618152007,
+      "ref_agreement_frac": 0.6764375109515794,
+      "ref_water_frac": 0.021204754186925984
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-06-28",
+      "otsu_vh_db": -18.357765197753906,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8487322771990741,
+      "ref_water_frac": 0.12390558240526721
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-06-30",
+      "otsu_vh_db": -17.0697021484375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7277975200135031,
+      "ref_water_frac": 0.03712357217030114
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-07-05",
+      "otsu_vh_db": -16.991973876953125,
+      "valid_frac": 0.7103474934895834,
+      "ref_agreement_frac": 0.6574813966193029,
+      "ref_water_frac": 0.022376926902038786
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-07-12",
+      "otsu_vh_db": -17.2869873046875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7134934413580247,
+      "ref_water_frac": 0.03696053441153204
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-07-17",
+      "otsu_vh_db": -17.006103515625,
+      "valid_frac": 0.7067931375385802,
+      "ref_agreement_frac": 0.6342884983603202,
+      "ref_water_frac": 0.008946475397192658
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-07-22",
+      "otsu_vh_db": -18.593914031982422,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7819123444733797,
+      "ref_water_frac": 0.0769921524225979
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-07-24",
+      "otsu_vh_db": -16.891738891601562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6918832284432871,
+      "ref_water_frac": 0.020504294818509284
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-07-29",
+      "otsu_vh_db": -17.00408935546875,
+      "valid_frac": 0.6984283070505402,
+      "ref_agreement_frac": 0.6435541765069528,
+      "ref_water_frac": 0.015940409683426443
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-08-03",
+      "otsu_vh_db": -18.232955932617188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7469693407600309,
+      "ref_water_frac": 0.07608516935218677
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-08-05",
+      "otsu_vh_db": -16.99554443359375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6672370816454475,
+      "ref_water_frac": 0.025328090690905376
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-08-10",
+      "otsu_vh_db": -16.472610473632812,
+      "valid_frac": 0.706030574845679,
+      "ref_agreement_frac": 0.6575184423080207,
+      "ref_water_frac": 0.009973005398920216
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-08-15",
+      "otsu_vh_db": -17.644973754882812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7346884645061729,
+      "ref_water_frac": 0.04833736540012333
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-08-22",
+      "otsu_vh_db": -16.381729125976562,
+      "valid_frac": 0.7058271243248457,
+      "ref_agreement_frac": 0.6596690957461573,
+      "ref_water_frac": 0.01581903029344301
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-08-27",
+      "otsu_vh_db": -17.36225128173828,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7218921802662037,
+      "ref_water_frac": 0.05850887573964497
+    },
+    {
+      "scene": "India_32",
+      "date": "2022-08-29",
+      "otsu_vh_db": -16.053253173828125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6633361062885802,
+      "ref_water_frac": 0.024689186019235282
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-05-18",
+      "otsu_vh_db": -14.428062438964844,
+      "valid_frac": 0.7371306242766203,
+      "ref_agreement_frac": 0.6386472155862157,
+      "ref_water_frac": 0.030560486938879024
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-05-23",
+      "otsu_vh_db": -14.955074310302734,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6335290979456019,
+      "ref_water_frac": 0.06952446050190411
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-05-25",
+      "otsu_vh_db": -14.456207275390625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6273992091049383,
+      "ref_water_frac": 0.028175650207312476
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-05-30",
+      "otsu_vh_db": -14.853736877441406,
+      "valid_frac": 0.7547758125964507,
+      "ref_agreement_frac": 0.6073092228347573,
+      "ref_water_frac": 0.029500548847420417
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-06-04",
+      "otsu_vh_db": -14.817035675048828,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6242886766975309,
+      "ref_water_frac": 0.07568264889271124
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-06-06",
+      "otsu_vh_db": -14.248275756835938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6298127350983797,
+      "ref_water_frac": 0.024231218372907745
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-06-11",
+      "otsu_vh_db": -14.670669555664062,
+      "valid_frac": 0.757287296248071,
+      "ref_agreement_frac": 0.6035468692008649,
+      "ref_water_frac": 0.04130885401243707
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-06-16",
+      "otsu_vh_db": -14.664024353027344,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7191463517554012,
+      "ref_water_frac": 0.07433434336922184
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-06-18",
+      "otsu_vh_db": -14.030685424804688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6264693648726852,
+      "ref_water_frac": 0.04064879833844328
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-06-23",
+      "otsu_vh_db": -14.773399353027344,
+      "valid_frac": 0.7553861641589507,
+      "ref_agreement_frac": 0.6235301393749078,
+      "ref_water_frac": 0.04942450914014895
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-06-28",
+      "otsu_vh_db": -14.911251068115234,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6428320613908179,
+      "ref_water_frac": 0.07388535031847134
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-06-30",
+      "otsu_vh_db": -14.680282592773438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6355425045814043,
+      "ref_water_frac": 0.03528763095019298
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-07-05",
+      "otsu_vh_db": -14.632896423339844,
+      "valid_frac": 0.7561426986882716,
+      "ref_agreement_frac": 0.606911946426436,
+      "ref_water_frac": 0.05240688944501693
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-07-12",
+      "otsu_vh_db": -13.956924438476562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6356698495370371,
+      "ref_water_frac": 0.027834858957593873
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-07-17",
+      "otsu_vh_db": -14.908950805664062,
+      "valid_frac": 0.7527262369791666,
+      "ref_agreement_frac": 0.5989562999401369,
+      "ref_water_frac": 0.030458339434763507
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-07-22",
+      "otsu_vh_db": -15.235931396484375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6555040147569444,
+      "ref_water_frac": 0.07296863109833432
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-07-24",
+      "otsu_vh_db": -14.877853393554688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6397026909722222,
+      "ref_water_frac": 0.03456300637821065
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-07-29",
+      "otsu_vh_db": -14.817955017089844,
+      "valid_frac": 0.7444879979263117,
+      "ref_agreement_frac": 0.614775311660879,
+      "ref_water_frac": 0.04332284815556191
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-08-03",
+      "otsu_vh_db": -14.35324478149414,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6603589470003858,
+      "ref_water_frac": 0.06829311726471374
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-08-05",
+      "otsu_vh_db": -14.838226318359375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6348937234760802,
+      "ref_water_frac": 0.04364857302742026
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-08-10",
+      "otsu_vh_db": -14.890235900878906,
+      "valid_frac": 0.752001350308642,
+      "ref_agreement_frac": 0.6064836710808991,
+      "ref_water_frac": 0.037181409295352325
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-08-15",
+      "otsu_vh_db": -15.169013977050781,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6406777464313271,
+      "ref_water_frac": 0.07918405192396848
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-08-22",
+      "otsu_vh_db": -14.798095703125,
+      "valid_frac": 0.7517933786651234,
+      "ref_agreement_frac": 0.6054597136637172,
+      "ref_water_frac": 0.04269120531000151
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-08-27",
+      "otsu_vh_db": -15.154190063476562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6416957525559414,
+      "ref_water_frac": 0.08098451766574037
+    },
+    {
+      "scene": "India_35",
+      "date": "2022-08-29",
+      "otsu_vh_db": -14.740142822265625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6192431037808642,
+      "ref_water_frac": 0.034160873882820256
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-05-18",
+      "otsu_vh_db": -15.96319580078125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5798302167727624,
+      "ref_water_frac": 0.03138129126296836
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-05-23",
+      "otsu_vh_db": -17.120540618896484,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6070112063560957,
+      "ref_water_frac": 0.02195220193340494
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-05-25",
+      "otsu_vh_db": -16.122055053710938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6104201328607253,
+      "ref_water_frac": 0.026623985009369144
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-05-30",
+      "otsu_vh_db": -15.980667114257812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5470528308256173,
+      "ref_water_frac": 0.006959019109687397
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-06-04",
+      "otsu_vh_db": -16.294692993164062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5606772340374229,
+      "ref_water_frac": 0.016908454227113557
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-06-06",
+      "otsu_vh_db": -15.837783813476562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.604638370466821,
+      "ref_water_frac": 0.022828922847558702
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-06-11",
+      "otsu_vh_db": -16.036407470703125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5312047887731481,
+      "ref_water_frac": 0.003252410268323847
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-06-16",
+      "otsu_vh_db": -17.628982543945312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5903124397183642,
+      "ref_water_frac": 0.030073753814852493
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-06-18",
+      "otsu_vh_db": -17.420516967773438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5464839228877315,
+      "ref_water_frac": 0.028850356986740492
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-06-23",
+      "otsu_vh_db": -17.242431640625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5578515323591821,
+      "ref_water_frac": 0.020714436694145
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-06-28",
+      "otsu_vh_db": -17.466094970703125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6446450315875771,
+      "ref_water_frac": 0.03635674035543997
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-06-30",
+      "otsu_vh_db": -17.554718017578125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6257060486593364,
+      "ref_water_frac": 0.030030204460966544
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-07-05",
+      "otsu_vh_db": -17.24725341796875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5856835636091821,
+      "ref_water_frac": 0.020963136033229492
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-07-12",
+      "otsu_vh_db": -17.93475341796875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5412861388406636,
+      "ref_water_frac": 0.03601384635867395
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-07-17",
+      "otsu_vh_db": -17.581527709960938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5182502652391975,
+      "ref_water_frac": 0.019251965610992725
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-07-22",
+      "otsu_vh_db": -18.293819427490234,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5298868815104166,
+      "ref_water_frac": 0.028331728785586575
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-07-24",
+      "otsu_vh_db": -17.622833251953125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5288786711516203,
+      "ref_water_frac": 0.017719626168224298
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-07-29",
+      "otsu_vh_db": -17.341018676757812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.4595510223765432,
+      "ref_water_frac": 0.014126524523997543
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-08-03",
+      "otsu_vh_db": -17.501522064208984,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.4871720679012346,
+      "ref_water_frac": 0.022955032119914346
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-08-05",
+      "otsu_vh_db": -17.123184204101562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5086112316743827,
+      "ref_water_frac": 0.026037195994277538
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-08-10",
+      "otsu_vh_db": -17.229766845703125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.44194275655864196,
+      "ref_water_frac": 0.019547719432732848
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-08-15",
+      "otsu_vh_db": -17.030731201171875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.4678073459201389,
+      "ref_water_frac": 0.019710631159572237
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-08-22",
+      "otsu_vh_db": -16.244552612304688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.4674788110050154,
+      "ref_water_frac": 0.008321225729758288
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-08-27",
+      "otsu_vh_db": -16.814693450927734,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.47484447337962965,
+      "ref_water_frac": 0.020584470989761093
+    },
+    {
+      "scene": "India_39",
+      "date": "2022-08-29",
+      "otsu_vh_db": -16.177841186523438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5079097041377315,
+      "ref_water_frac": 0.019290811775200714
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-05-18",
+      "otsu_vh_db": -16.283058166503906,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6374737774884259,
+      "ref_water_frac": 0.02686459522807861
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-05-20",
+      "otsu_vh_db": -15.754013061523438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6166276343074846,
+      "ref_water_frac": 0.05473897617840851
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-05-25",
+      "otsu_vh_db": -14.625030517578125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5121475031346451,
+      "ref_water_frac": 0.012932892656990947
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-05-30",
+      "otsu_vh_db": -15.133281707763672,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5822957356770834,
+      "ref_water_frac": 0.026336633663366336
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-06-01",
+      "otsu_vh_db": -15.089759826660156,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5486178927951388,
+      "ref_water_frac": 0.05594909352863489
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-06-06",
+      "otsu_vh_db": -14.680496215820312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5160974573206019,
+      "ref_water_frac": 0.012068481616615213
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-06-11",
+      "otsu_vh_db": -15.512557983398438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6059796368634259,
+      "ref_water_frac": 0.03574039476890586
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-06-13",
+      "otsu_vh_db": -15.540008544921875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6231689453125,
+      "ref_water_frac": 0.05022954361328653
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-06-18",
+      "otsu_vh_db": -15.95135498046875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5676420235339507,
+      "ref_water_frac": 0.007467895030709101
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-06-23",
+      "otsu_vh_db": -15.744131088256836,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6426949206693673,
+      "ref_water_frac": 0.054882638746321766
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-06-30",
+      "otsu_vh_db": -16.003768920898438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5569774486400463,
+      "ref_water_frac": 0.00943944234679059
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-07-05",
+      "otsu_vh_db": -16.60552215576172,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6529066297743056,
+      "ref_water_frac": 0.061223315495713214
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-07-07",
+      "otsu_vh_db": -16.090255737304688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6068446783371914,
+      "ref_water_frac": 0.03601238556812063
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-07-12",
+      "otsu_vh_db": -15.920639038085938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5585063416280864,
+      "ref_water_frac": 0.009485808928705864
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-07-17",
+      "otsu_vh_db": -17.047306060791016,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6391887900270061,
+      "ref_water_frac": 0.04224808339308367
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-07-19",
+      "otsu_vh_db": -17.000511169433594,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6108496395158179,
+      "ref_water_frac": 0.04031334739379331
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-07-24",
+      "otsu_vh_db": -16.227432250976562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5317940417631173,
+      "ref_water_frac": 0.008910738976801351
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-07-29",
+      "otsu_vh_db": -16.614459991455078,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5744832356770834,
+      "ref_water_frac": 0.021179515118496323
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-08-05",
+      "otsu_vh_db": -15.405044555664062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.4990874867380401,
+      "ref_water_frac": 0.010452961672473868
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-08-10",
+      "otsu_vh_db": -16.29906463623047,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5553325135030864,
+      "ref_water_frac": 0.028272089977659655
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-08-12",
+      "otsu_vh_db": -15.809761047363281,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.557214054060571,
+      "ref_water_frac": 0.0560124269005848
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-08-22",
+      "otsu_vh_db": -15.760807037353516,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5589403694058642,
+      "ref_water_frac": 0.0355178071614709
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-08-24",
+      "otsu_vh_db": -15.723915100097656,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5326937451774691,
+      "ref_water_frac": 0.056597706077821844
+    },
+    {
+      "scene": "India_41",
+      "date": "2022-08-29",
+      "otsu_vh_db": -14.487442016601562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.4873823001060957,
+      "ref_water_frac": 0.007975128413084618
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-05-18",
+      "otsu_vh_db": -14.835479736328125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7133480119116512,
+      "ref_water_frac": 0.07017436524931171
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-05-23",
+      "otsu_vh_db": -15.403606414794922,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7085593894675926,
+      "ref_water_frac": 0.0835030549898167
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-05-25",
+      "otsu_vh_db": -14.945999145507812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6995849609375,
+      "ref_water_frac": 0.0773027370040382
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-05-30",
+      "otsu_vh_db": -15.264511108398438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6473464023919753,
+      "ref_water_frac": 0.0566542750929368
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-06-04",
+      "otsu_vh_db": -14.993331909179688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6899316104841821,
+      "ref_water_frac": 0.08697809598071879
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-06-06",
+      "otsu_vh_db": -14.689712524414062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7132455331307871,
+      "ref_water_frac": 0.0739272238920509
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-06-11",
+      "otsu_vh_db": -14.818313598632812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6500711323302469,
+      "ref_water_frac": 0.08202820801245998
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-06-16",
+      "otsu_vh_db": -15.189167022705078,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8196833104263117,
+      "ref_water_frac": 0.07120871807669911
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-06-18",
+      "otsu_vh_db": -14.799507141113281,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7482895085841049,
+      "ref_water_frac": 0.07843564464295441
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-06-23",
+      "otsu_vh_db": -14.986923217773438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6887410481770834,
+      "ref_water_frac": 0.08021467943138962
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-06-28",
+      "otsu_vh_db": -15.362438201904297,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.714758602189429,
+      "ref_water_frac": 0.08997157400674291
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-06-30",
+      "otsu_vh_db": -15.193405151367188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7124656394675926,
+      "ref_water_frac": 0.08056030931102237
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-07-05",
+      "otsu_vh_db": -14.982879638671875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6851339457947531,
+      "ref_water_frac": 0.07645215363311712
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-07-12",
+      "otsu_vh_db": -14.588272094726562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7235438970871914,
+      "ref_water_frac": 0.0756113841859336
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-07-17",
+      "otsu_vh_db": -15.25537109375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6501623083043981,
+      "ref_water_frac": 0.04841535276317885
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-07-22",
+      "otsu_vh_db": -15.303162574768066,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7184825002411266,
+      "ref_water_frac": 0.08955511330808243
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-07-24",
+      "otsu_vh_db": -15.213394165039062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7058248637635031,
+      "ref_water_frac": 0.0785390460379286
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-07-29",
+      "otsu_vh_db": -15.155441284179688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6723090277777778,
+      "ref_water_frac": 0.07258856409094343
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-08-03",
+      "otsu_vh_db": -14.567085266113281,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6900574483989198,
+      "ref_water_frac": 0.08242318334061453
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-08-05",
+      "otsu_vh_db": -15.133010864257812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6729352032696759,
+      "ref_water_frac": 0.08800780956671923
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-08-10",
+      "otsu_vh_db": -14.996749877929688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6484103732638888,
+      "ref_water_frac": 0.08107626514611546
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-08-15",
+      "otsu_vh_db": -15.410400390625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6519187644675926,
+      "ref_water_frac": 0.07675975828842072
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-08-22",
+      "otsu_vh_db": -14.877899169921875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6280532648533951,
+      "ref_water_frac": 0.08421158285656931
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-08-27",
+      "otsu_vh_db": -15.382884979248047,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6635508596161266,
+      "ref_water_frac": 0.09048515094493986
+    },
+    {
+      "scene": "India_43",
+      "date": "2022-08-29",
+      "otsu_vh_db": -15.017265319824219,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6398699725115741,
+      "ref_water_frac": 0.09631505413901502
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-05-18",
+      "otsu_vh_db": -18.219024658203125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5644222306616512,
+      "ref_water_frac": 0.03664280907811831
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-05-23",
+      "otsu_vh_db": -20.049346923828125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7911369417920525,
+      "ref_water_frac": 0.3925297403317273
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-05-25",
+      "otsu_vh_db": -17.67108154296875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5791090977044753,
+      "ref_water_frac": 0.033675836924096786
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-05-30",
+      "otsu_vh_db": -16.339157104492188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5809665256076388,
+      "ref_water_frac": 0.06117363344051447
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-06-04",
+      "otsu_vh_db": -17.45989990234375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6905080536265432,
+      "ref_water_frac": 0.14307639836289224
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-06-06",
+      "otsu_vh_db": -16.393783569335938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6296718267746914,
+      "ref_water_frac": 0.0705596107055961
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-06-11",
+      "otsu_vh_db": -16.115768432617188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6115247938368056,
+      "ref_water_frac": 0.08002783576896312
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-06-16",
+      "otsu_vh_db": -19.24322509765625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7326253255208334,
+      "ref_water_frac": 0.35533935603428307
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-06-18",
+      "otsu_vh_db": -18.4864501953125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.4429200725790895,
+      "ref_water_frac": 0.05689188079796404
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-06-23",
+      "otsu_vh_db": -17.816146850585938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.4826456705729167,
+      "ref_water_frac": 0.018410309773473146
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-06-28",
+      "otsu_vh_db": -18.480072021484375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.700463565779321,
+      "ref_water_frac": 0.25882763085811045
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-06-30",
+      "otsu_vh_db": -17.24925994873047,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5685304241415895,
+      "ref_water_frac": 0.05076461140981775
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-07-05",
+      "otsu_vh_db": -16.954986572265625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5497451593846451,
+      "ref_water_frac": 0.03815979891842486
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-07-12",
+      "otsu_vh_db": -17.690887451171875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5639098367573302,
+      "ref_water_frac": 0.03558388103299476
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-07-17",
+      "otsu_vh_db": -17.6234130859375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.4725974754050926,
+      "ref_water_frac": 0.020496583902682886
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-07-22",
+      "otsu_vh_db": -19.134811401367188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7125959985050154,
+      "ref_water_frac": 0.2888541518639572
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-07-24",
+      "otsu_vh_db": -17.373001098632812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.45982304325810186,
+      "ref_water_frac": 0.013761467889908258
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-07-29",
+      "otsu_vh_db": -17.56817626953125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.43775544343171297,
+      "ref_water_frac": 0.01071593533487298
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-08-03",
+      "otsu_vh_db": -18.370468139648438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.657763069058642,
+      "ref_water_frac": 0.209460571804862
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-08-05",
+      "otsu_vh_db": -16.91460418701172,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5551742742091049,
+      "ref_water_frac": 0.03874684343434343
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-08-10",
+      "otsu_vh_db": -16.576004028320312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5342919620466821,
+      "ref_water_frac": 0.041666666666666664
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-08-15",
+      "otsu_vh_db": -17.518798828125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5865561402874229,
+      "ref_water_frac": 0.06977093503567405
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-08-22",
+      "otsu_vh_db": -16.707244873046875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5273173767843364,
+      "ref_water_frac": 0.03017617303331589
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-08-27",
+      "otsu_vh_db": -17.307449340820312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5813854829764661,
+      "ref_water_frac": 0.08254233426987623
+    },
+    {
+      "scene": "India_45",
+      "date": "2022-08-29",
+      "otsu_vh_db": -16.321922302246094,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5551426263503086,
+      "ref_water_frac": 0.03609248146840805
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-05-18",
+      "otsu_vh_db": -20.070541381835938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6668738847897376,
+      "ref_water_frac": 0.06002852327239725
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-05-20",
+      "otsu_vh_db": -21.46680450439453,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.95538330078125,
+      "ref_water_frac": 0.4117577197149644
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-05-25",
+      "otsu_vh_db": -18.798202514648438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6150814103491512,
+      "ref_water_frac": 0.003830683777054204
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-05-30",
+      "otsu_vh_db": -20.109413146972656,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6781126422646605,
+      "ref_water_frac": 0.049299136397170505
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-06-01",
+      "otsu_vh_db": -21.187530517578125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9625553084008488,
+      "ref_water_frac": 0.33279347543164534
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-06-06",
+      "otsu_vh_db": -18.9339599609375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6224252206307871,
+      "ref_water_frac": 0.006209440216630095
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-06-11",
+      "otsu_vh_db": -20.092056274414062,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6495172948013117,
+      "ref_water_frac": 0.038003277671967046
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-06-13",
+      "otsu_vh_db": -20.944656372070312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9651911229263117,
+      "ref_water_frac": 0.38813820358585416
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-06-18",
+      "otsu_vh_db": -18.945632934570312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.39677372685185186,
+      "ref_water_frac": 0.04069018799896987
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-06-23",
+      "otsu_vh_db": -19.79345703125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6116491247106481,
+      "ref_water_frac": 0.13273806554596698
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-06-30",
+      "otsu_vh_db": -19.102188110351562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.40234751760223764,
+      "ref_water_frac": 0.07853495333685508
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-07-05",
+      "otsu_vh_db": -20.107986450195312,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6601328908661266,
+      "ref_water_frac": 0.21666980067694622
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-07-07",
+      "otsu_vh_db": -21.109527587890625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9270614812403549,
+      "ref_water_frac": 0.4250522311266332
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-07-12",
+      "otsu_vh_db": -18.710891723632812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5780187536168981,
+      "ref_water_frac": 0.026445517099722708
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-07-17",
+      "otsu_vh_db": -19.888816833496094,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6185423297646605,
+      "ref_water_frac": 0.040861532660948253
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-07-19",
+      "otsu_vh_db": -21.14427947998047,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9439230082947531,
+      "ref_water_frac": 0.37618419474757164
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-07-24",
+      "otsu_vh_db": -18.86083984375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5861605420524691,
+      "ref_water_frac": 0.018562183314102244
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-07-29",
+      "otsu_vh_db": -20.13037109375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6219633125964507,
+      "ref_water_frac": 0.035824381130312936
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-08-05",
+      "otsu_vh_db": -18.986801147460938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.5922768675250771,
+      "ref_water_frac": 0.010659923645198075
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-08-10",
+      "otsu_vh_db": -20.2606201171875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6489619502314815,
+      "ref_water_frac": 0.05363118386542462
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-08-12",
+      "otsu_vh_db": -21.463592529296875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9554096739969136,
+      "ref_water_frac": 0.3703075167510314
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-08-22",
+      "otsu_vh_db": -20.259124755859375,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6449637707368827,
+      "ref_water_frac": 0.040312684633913555
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-08-24",
+      "otsu_vh_db": -21.417861938476562,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.9408411096643519,
+      "ref_water_frac": 0.35556613315880287
+    },
+    {
+      "scene": "India_53",
+      "date": "2022-08-29",
+      "otsu_vh_db": -18.621826171875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6058063271604939,
+      "ref_water_frac": 0.011902494762902305
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-05-18",
+      "otsu_vh_db": -16.392555236816406,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8603621117862654,
+      "ref_water_frac": 0.05487260490350938
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-05-20",
+      "otsu_vh_db": -15.477348327636719,
+      "valid_frac": 0.4693535698784722,
+      "ref_agreement_frac": 0.7128151284113659,
+      "ref_water_frac": 0.028289394486577586
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-05-25",
+      "otsu_vh_db": -15.876899719238281,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7728761272665895,
+      "ref_water_frac": 0.06799541809851088
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-05-30",
+      "otsu_vh_db": -15.543502807617188,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.6719503520447531,
+      "ref_water_frac": 0.054739492775346246
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-06-01",
+      "otsu_vh_db": -14.589996337890625,
+      "valid_frac": 0.48319197289737653,
+      "ref_agreement_frac": 0.627716976012326,
+      "ref_water_frac": 0.033726502027276076
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-06-06",
+      "otsu_vh_db": -15.748771667480469,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7257366415895061,
+      "ref_water_frac": 0.07205890314547128
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-06-11",
+      "otsu_vh_db": -15.65545654296875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8051486545138888,
+      "ref_water_frac": 0.06453748138341883
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-06-13",
+      "otsu_vh_db": -14.806747436523438,
+      "valid_frac": 0.4836712119020062,
+      "ref_agreement_frac": 0.688729392629798,
+      "ref_water_frac": 0.02806925498426023
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-06-18",
+      "otsu_vh_db": -17.308319091796875,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8797449182581019,
+      "ref_water_frac": 0.06896216005711689
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-06-23",
+      "otsu_vh_db": -17.374168395996094,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8262193467881944,
+      "ref_water_frac": 0.05831910048391688
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-06-30",
+      "otsu_vh_db": -17.31988525390625,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8571317696277007,
+      "ref_water_frac": 0.0840938281619685
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-07-05",
+      "otsu_vh_db": -17.41480255126953,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8417848186728395,
+      "ref_water_frac": 0.07288205980066445
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-07-07",
+      "otsu_vh_db": -16.31695556640625,
+      "valid_frac": 0.4810331368152006,
+      "ref_agreement_frac": 0.757202986931002,
+      "ref_water_frac": 0.0255510571300045
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-07-12",
+      "otsu_vh_db": -16.82953643798828,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8900267047646605,
+      "ref_water_frac": 0.07489983197621818
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-07-17",
+      "otsu_vh_db": -16.37767791748047,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8448388370466821,
+      "ref_water_frac": 0.062236133352744215
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-07-19",
+      "otsu_vh_db": -15.301652908325195,
+      "valid_frac": 0.4787552445023148,
+      "ref_agreement_frac": 0.6678329382804655,
+      "ref_water_frac": 0.026657263751763048
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-07-24",
+      "otsu_vh_db": -16.302413940429688,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8475590458622685,
+      "ref_water_frac": 0.07851299500470571
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-07-29",
+      "otsu_vh_db": -15.924514770507812,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7817842459972993,
+      "ref_water_frac": 0.07155587239351274
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-08-05",
+      "otsu_vh_db": -16.197738647460938,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.8190526138117284,
+      "ref_water_frac": 0.07741681433353022
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-08-10",
+      "otsu_vh_db": -15.861846923828125,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.749548641251929,
+      "ref_water_frac": 0.07252888318356868
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-08-12",
+      "otsu_vh_db": -15.121448516845703,
+      "valid_frac": 0.48249195240162035,
+      "ref_agreement_frac": 0.6306829273625407,
+      "ref_water_frac": 0.02088205813564985
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-08-22",
+      "otsu_vh_db": -15.698402404785156,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7121054566936729,
+      "ref_water_frac": 0.07009292837715322
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-08-24",
+      "otsu_vh_db": -15.339584350585938,
+      "valid_frac": 0.47916892722800924,
+      "ref_agreement_frac": 0.6347799285115591,
+      "ref_water_frac": 0.012682010333489901
+    },
+    {
+      "scene": "India_55",
+      "date": "2022-08-29",
+      "otsu_vh_db": -15.526962280273438,
+      "valid_frac": 1.0,
+      "ref_agreement_frac": 0.7798055013020834,
+      "ref_water_frac": 0.0834272829763247
+    }
+  ],
+  "provenance": {
+    "timestamp_utc": "2026-10-24T08:33:42Z",
+    "python": "3.12.6",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+    "numpy": "2.5.4",
+    "torch": "2.5.1+cu124",
+    "cuda": "12.4",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "git_commit": null
+  }
+}

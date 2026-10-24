@@ -1,0 +1,118 @@
+recurrent_noforecast seed 3: 488 iterations x 3072 steps, params 769474
+  it 5/488 0.6 min ret 8.237 ent 5.22
+  it 10/488 1.3 min ret 9.455 ent 5.04
+  it 15/488 2.0 min ret 9.996 ent 4.77
+  it 20/488 2.7 min ret 7.995 ent 4.60
+  it 25/488 3.2 min ret 9.954 ent 4.51
+it 25/488 ret 9.954 ent 4.51 kl 0.0517 val mean IoU 0.1712 final 0.2123 (best 0.1712) 3.2 min
+  it 30/488 4.2 min ret 18.244 ent 4.41
+  it 35/488 4.7 min ret 18.328 ent 4.28
+  it 40/488 5.3 min ret 11.816 ent 4.22
+  it 45/488 5.8 min ret 11.530 ent 4.20
+  it 50/488 6.3 min ret 7.403 ent 4.22
+it 50/488 ret 7.403 ent 4.22 kl 0.0500 val mean IoU 0.1962 final 0.2419 (best 0.1962) 6.3 min
+  it 55/488 7.3 min ret 17.149 ent 4.06
+  it 60/488 7.8 min ret 21.855 ent 4.14
+  it 65/488 8.4 min ret 26.593 ent 3.88
+  it 70/488 8.9 min ret 17.146 ent 3.97
+  it 75/488 9.4 min ret 27.709 ent 3.95
+it 75/488 ret 27.709 ent 3.95 kl 0.0401 val mean IoU 0.1986 final 0.2444 (best 0.1986) 9.4 min
+  it 80/488 10.4 min ret 8.711 ent 3.96
+  it 85/488 11.0 min ret 10.398 ent 3.86
+  it 90/488 11.5 min ret 18.751 ent 3.64
+  it 95/488 12.0 min ret 11.273 ent 3.57
+  it 100/488 12.5 min ret 25.373 ent 3.39
+it 100/488 ret 25.373 ent 3.39 kl 0.0387 val mean IoU 0.2031 final 0.2436 (best 0.2031) 12.5 min
+  it 105/488 13.6 min ret 18.263 ent 3.64
+  it 110/488 14.2 min ret 20.753 ent 3.74
+  it 115/488 14.8 min ret 15.522 ent 3.56
+  it 120/488 15.3 min ret 12.522 ent 3.65
+  it 125/488 15.8 min ret 11.703 ent 3.54
+it 125/488 ret 11.703 ent 3.54 kl 0.0313 val mean IoU 0.2121 final 0.2559 (best 0.2121) 15.8 min
+  it 130/488 16.7 min ret 19.379 ent 3.39
+  it 135/488 17.3 min ret 17.683 ent 3.33
+  it 140/488 17.8 min ret 14.326 ent 3.20
+  it 145/488 18.4 min ret 11.746 ent 3.26
+  it 150/488 19.0 min ret 11.410 ent 3.16
+it 150/488 ret 11.410 ent 3.16 kl 0.0406 val mean IoU 0.2035 final 0.2451 (best 0.2121) 19.0 min
+  it 155/488 20.0 min ret 19.422 ent 3.16
+  it 160/488 20.6 min ret 13.948 ent 2.94
+  it 165/488 21.1 min ret 18.592 ent 3.01
+  it 170/488 21.6 min ret 10.901 ent 3.12
+  it 175/488 22.1 min ret 21.299 ent 3.34
+it 175/488 ret 21.299 ent 3.34 kl 0.0257 val mean IoU 0.2101 final 0.2528 (best 0.2121) 22.1 min
+  it 180/488 23.0 min ret 22.025 ent 3.17
+  it 185/488 23.7 min ret 20.413 ent 3.08
+  it 190/488 24.4 min ret 10.412 ent 2.87
+  it 195/488 25.0 min ret 12.066 ent 3.08
+  it 200/488 25.6 min ret 23.557 ent 2.87
+it 200/488 ret 23.557 ent 2.87 kl 0.0279 val mean IoU 0.2117 final 0.2558 (best 0.2121) 25.6 min
+  it 205/488 26.4 min ret 15.395 ent 3.08
+  it 210/488 26.9 min ret 29.361 ent 3.05
+  it 215/488 27.5 min ret 12.516 ent 3.04
+  it 220/488 28.0 min ret 26.862 ent 2.80
+  it 225/488 28.6 min ret 15.256 ent 3.20
+it 225/488 ret 15.256 ent 3.20 kl 0.0320 val mean IoU 0.2101 final 0.2584 (best 0.2121) 28.6 min
+  it 230/488 29.5 min ret 15.171 ent 3.31
+  it 235/488 30.1 min ret 15.013 ent 3.36
+  it 240/488 30.8 min ret 18.577 ent 3.22
+  it 245/488 31.5 min ret 21.493 ent 3.03
+  it 250/488 32.1 min ret 10.713 ent 3.13
+it 250/488 ret 10.713 ent 3.13 kl 0.0309 val mean IoU 0.2152 final 0.2712 (best 0.2152) 32.1 min
+  it 255/488 33.0 min ret 21.657 ent 2.94
+  it 260/488 33.5 min ret 14.345 ent 2.97
+  it 265/488 34.0 min ret 20.488 ent 2.98
+  it 270/488 34.5 min ret 20.776 ent 2.98
+  it 275/488 35.0 min ret 12.819 ent 3.03
+it 275/488 ret 12.819 ent 3.03 kl 0.0372 val mean IoU 0.2150 final 0.2688 (best 0.2152) 35.0 min
+  it 280/488 35.8 min ret 24.513 ent 2.80
+  it 285/488 36.4 min ret 12.131 ent 3.00
+  it 290/488 36.9 min ret 16.545 ent 2.89
+  it 295/488 37.5 min ret 24.799 ent 2.95
+  it 300/488 38.1 min ret 27.559 ent 2.93
+it 300/488 ret 27.559 ent 2.93 kl 0.0309 val mean IoU 0.2181 final 0.2767 (best 0.2181) 38.1 min
+  it 305/488 39.1 min ret 24.159 ent 3.07
+  it 310/488 39.7 min ret 33.947 ent 2.81
+  it 315/488 40.4 min ret 17.454 ent 2.93
+  it 320/488 41.1 min ret 14.220 ent 3.08
+  it 325/488 41.7 min ret 12.716 ent 2.94
+it 325/488 ret 12.716 ent 2.94 kl 0.0298 val mean IoU 0.2207 final 0.2751 (best 0.2207) 41.7 min
+  it 330/488 42.6 min ret 23.194 ent 2.92
+  it 335/488 43.1 min ret 11.867 ent 2.91
+  it 340/488 43.6 min ret 13.297 ent 2.87
+  it 345/488 44.1 min ret 16.135 ent 2.97
+  it 350/488 44.6 min ret 34.382 ent 2.75
+it 350/488 ret 34.382 ent 2.75 kl 0.0375 val mean IoU 0.2119 final 0.2846 (best 0.2207) 44.6 min
+  it 355/488 45.4 min ret 30.480 ent 2.81
+  it 360/488 46.0 min ret 15.676 ent 2.84
+  it 365/488 46.5 min ret 18.045 ent 2.86
+  it 370/488 47.1 min ret 18.762 ent 2.93
+  it 375/488 47.7 min ret 20.814 ent 2.79
+it 375/488 ret 20.814 ent 2.79 kl 0.0212 val mean IoU 0.2082 final 0.2738 (best 0.2207) 47.7 min
+  it 380/488 48.6 min ret 20.102 ent 2.89
+  it 385/488 49.2 min ret 20.003 ent 2.67
+  it 390/488 49.8 min ret 15.189 ent 2.71
+  it 395/488 50.5 min ret 19.679 ent 2.71
+  it 400/488 51.2 min ret 17.815 ent 2.64
+it 400/488 ret 17.815 ent 2.64 kl 0.0225 val mean IoU 0.2059 final 0.2727 (best 0.2207) 51.2 min
+  it 405/488 52.0 min ret 12.960 ent 2.66
+  it 410/488 52.6 min ret 20.015 ent 2.59
+  it 415/488 53.1 min ret 12.255 ent 2.61
+  it 420/488 53.6 min ret 24.229 ent 2.59
+  it 425/488 54.1 min ret 20.674 ent 2.61
+it 425/488 ret 20.674 ent 2.61 kl 0.0170 val mean IoU 0.2154 final 0.2760 (best 0.2207) 54.1 min
+  it 430/488 55.0 min ret 16.266 ent 2.68
+  it 435/488 55.5 min ret 18.783 ent 2.54
+  it 440/488 56.0 min ret 22.438 ent 2.44
+  it 445/488 56.5 min ret 25.105 ent 2.33
+  it 450/488 57.0 min ret 19.880 ent 2.39
+it 450/488 ret 19.880 ent 2.39 kl 0.0098 val mean IoU 0.2152 final 0.2817 (best 0.2207) 57.0 min
+  it 455/488 57.8 min ret 20.020 ent 2.42
+  it 460/488 58.3 min ret 7.806 ent 2.41
+  it 465/488 58.9 min ret 23.891 ent 2.40
+  it 470/488 59.4 min ret 25.754 ent 2.28
+  it 475/488 60.0 min ret 10.166 ent 2.44
+it 475/488 ret 10.166 ent 2.44 kl 0.0026 val mean IoU 0.2219 final 0.2745 (best 0.2219) 60.0 min
+  it 480/488 60.8 min ret 24.407 ent 2.27
+  it 485/488 61.4 min ret 27.908 ent 2.30
+it 488/488 ret 21.291 ent 2.28 kl 0.0003 val mean IoU 0.2238 final 0.2721 (best 0.2238) 61.8 min

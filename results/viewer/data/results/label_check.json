@@ -1,0 +1,1 @@
+[{"product":"Reference map","key":"reference","iou":0.33692,"precision":0.56249,"recall":0.45656,"f1":0.50402,"date":"2016-08-12","cells":224793},{"product":"Deployed U-Net","key":"unet_obs","iou":0.09025,"precision":0.5375,"recall":0.09785,"f1":0.16556,"date":"2016-08-12","cells":224793}]

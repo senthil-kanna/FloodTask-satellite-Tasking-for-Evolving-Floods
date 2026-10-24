@@ -1,0 +1,144 @@
+﻿India_00 2016-07-19 valid 1.00
+India_00 2016-08-12 valid 1.00
+India_00 2016-09-05 valid 1.00
+India_00 2016-09-29 valid 1.00
+India_01 2016-07-19 valid 1.00
+India_01 2016-08-12 valid 1.00
+India_01 2016-09-05 valid 1.00
+India_01 2016-09-29 valid 1.00
+India_02 2016-07-14 valid 1.00
+India_02 2016-07-19 valid 0.99
+India_02 2016-08-07 valid 1.00
+India_02 2016-08-12 valid 0.99
+India_02 2016-08-31 valid 1.00
+India_02 2016-09-05 valid 0.99
+India_02 2016-09-24 valid 1.00
+India_02 2016-09-29 valid 0.99
+India_03 2016-07-19 valid 1.00
+India_03 2016-08-12 valid 1.00
+India_03 2016-09-05 valid 1.00
+India_03 2016-09-29 valid 1.00
+India_04 2016-07-19 valid 1.00
+India_04 2016-08-12 valid 1.00
+India_04 2016-09-05 valid 1.00
+India_04 2016-09-29 valid 1.00
+India_06 2016-07-19 valid 1.00
+India_06 2016-08-12 valid 1.00
+India_06 2016-09-05 valid 1.00
+India_06 2016-09-29 valid 1.00
+India_07 2016-07-14 valid 1.00
+India_07 2016-07-19 valid 0.60
+India_07 2016-08-07 valid 1.00
+India_07 2016-08-12 valid 0.60
+India_07 2016-08-31 valid 1.00
+India_07 2016-09-05 valid 0.60
+India_07 2016-09-24 valid 1.00
+India_07 2016-09-29 valid 0.59
+India_08 2016-07-19 valid 1.00
+India_08 2016-08-12 valid 1.00
+India_08 2016-09-05 valid 1.00
+India_08 2016-09-29 valid 1.00
+India_09 2016-07-19 valid 1.00
+India_09 2016-08-12 valid 1.00
+India_09 2016-09-05 valid 1.00
+India_09 2016-09-29 valid 1.00
+India_11 2016-07-14 valid 1.00
+India_11 2016-07-19 valid 1.00
+India_11 2016-08-07 valid 1.00
+India_11 2016-08-12 valid 1.00
+India_11 2016-08-31 valid 1.00
+India_11 2016-09-05 valid 1.00
+India_11 2016-09-24 valid 1.00
+India_11 2016-09-29 valid 1.00
+India_12 2016-07-19 valid 1.00
+India_12 2016-08-12 valid 1.00
+India_12 2016-09-05 valid 1.00
+India_12 2016-09-29 valid 1.00
+India_13 2016-07-19 valid 1.00
+India_13 2016-08-12 valid 1.00
+India_13 2016-09-05 valid 1.00
+India_13 2016-09-29 valid 1.00
+India_14 2016-07-19 valid 1.00
+India_14 2016-08-12 valid 1.00
+India_14 2016-09-05 valid 1.00
+India_14 2016-09-29 valid 1.00
+India_15 2016-07-19 valid 1.00
+India_15 2016-08-12 valid 1.00
+India_15 2016-09-05 valid 1.00
+India_15 2016-09-29 valid 1.00
+India_16 2016-07-14 valid 0.66
+India_16 2016-07-19 valid 1.00
+India_16 2016-08-07 valid 0.67
+India_16 2016-08-12 valid 1.00
+India_16 2016-08-31 valid 0.66
+India_16 2016-09-05 valid 1.00
+India_16 2016-09-24 valid 0.67
+India_16 2016-09-29 valid 1.00
+India_17 2016-07-19 valid 1.00
+India_17 2016-08-12 valid 1.00
+India_17 2016-09-05 valid 1.00
+India_17 2016-09-29 valid 1.00
+India_18 2016-07-14 valid 1.00
+India_18 2016-07-19 valid 0.79
+India_18 2016-08-07 valid 1.00
+India_18 2016-08-12 valid 0.80
+India_18 2016-08-31 valid 1.00
+India_18 2016-09-05 valid 0.80
+India_18 2016-09-24 valid 1.00
+India_18 2016-09-29 valid 0.79
+India_19 2016-07-19 valid 1.00
+India_19 2016-08-12 valid 1.00
+India_19 2016-09-05 valid 1.00
+India_19 2016-09-29 valid 1.00
+India_21 2016-07-19 valid 1.00
+India_21 2016-08-12 valid 1.00
+India_21 2016-09-05 valid 1.00
+India_21 2016-09-29 valid 1.00
+India_22 2016-07-14 valid 1.00
+India_22 2016-07-19 valid 1.00
+.\.venv\Scripts\python.exe : rasterio._err.CPLE_AppDefinedError: _TIFFPartialReadStripArray:Cannot read offset/size 
+for strile around ~1651
+At line:1 char:23
++ ... 5_Works\RL; .\.venv\Scripts\python.exe -u -m floodtask.data.real_even ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (rasterio._err.C...le around ~1651:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "rasterio/_warp.pyx", line 660, in rasterio._warp._reproject
+    with stack_errors() as checker, Env(GDAL_MEM_ENABLE_OPEN=True):
+  File "rasterio/_warp.pyx", line 660, in rasterio._warp._reproject
+    with stack_errors() as checker, Env(GDAL_MEM_ENABLE_OPEN=True):
+  File "rasterio/_warp.pyx", line 668, in rasterio._warp._reproject
+    err = checker.exc_wrap_int(err)
+  File "rasterio/_err.pyx", line 325, in rasterio._err.StackChecker.exc_wrap_int
+    raise last
+rasterio._err.CPLE_AppDefinedError: iw-vh.rtc.tiff?st=2026-10-19T08%3A58%3A05Z&se=2026-10-20T09%3A43%3A05Z&sp=rl&sv=202
+5-07-05&sr=c&skoid=9c8ff44a-6a2c-4dfb-b298-1c9212f64d9a&sktid=72f988bf-86f1-41af-91ab-2d7cd011db47&skt=2026-10-20T08%3A
+47%3A05Z&ske=2026-10-27T08%3A47%3A05Z&sks=b&skv=2025-07-05&sig=m53Uwqjjy6I24Qep3TaAEGBL3gpRrqQutBLhvROKFoc%3D, band 1: 
+IReadBlock failed at X offset 1, Y offset 30: _TIFFPartialReadStripArray:Cannot read offset/size for strile around 
+~1651
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\SEM_5_Works\RL\floodtask\data\real_event.py", line 161, in <module>
+    {"download": download, "predict": predict, "rain": rain}[a.step](a.event)
+  File "C:\SEM_5_Works\RL\floodtask\data\real_event.py", line 79, in download
+    reproject(rasterio.band(src, 1), tmp, dst_transform=tf, dst_crs=crs,
+  File "C:\SEM_5_Works\RL\.venv\Lib\site-packages\rasterio\env.py", line 411, in wrapper
+    return f(*args, **kwds)
+           ^^^^^^^^^^^^^^^^
+  File "C:\SEM_5_Works\RL\.venv\Lib\site-packages\rasterio\warp.py", line 390, in reproject
+    dest = _reproject(
+           ^^^^^^^^^^^
+  File "rasterio/_warp.pyx", line 390, in rasterio._warp._reproject
+    with ExitStack() as exit_stack:
+  File "rasterio/_warp.pyx", line 671, in rasterio._warp._reproject
+    raise WarpOperationError("Chunk and warp failed") from base
+rasterio.errors.WarpOperationError: Chunk and warp failed

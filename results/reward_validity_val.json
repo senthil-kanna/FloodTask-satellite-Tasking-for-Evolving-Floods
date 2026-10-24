@@ -1,0 +1,174 @@
+{
+  "err_fnw1": {
+    "spearman_episode_level": 0.771398295206487,
+    "spearman_policy_level": 0.6571428571428573,
+    "policy_means_return_iou": {
+      "random": [
+        -1.7202690972222223,
+        0.089456503101015
+      ],
+      "stalest": [
+        -2.7196180555555562,
+        0.10192778397996054
+      ],
+      "flooded_first": [
+        -2.2732204861111125,
+        0.14750545479477936
+      ],
+      "forecast": [
+        -2.5221354166666674,
+        0.13966186491604188
+      ],
+      "greedy_unc": [
+        -1.2328559027777775,
+        0.17823943583898216
+      ],
+      "oracle": [
+        4.796006944444445,
+        0.34128023291912346
+      ]
+    },
+    "n_episodes_used": 192,
+    "n_episodes_no_flood": 0
+  },
+  "err_fnw3": {
+    "spearman_episode_level": 0.8284062293232981,
+    "spearman_policy_level": 1.0,
+    "policy_means_return_iou": {
+      "random": [
+        3.4516059027777777,
+        0.089456503101015
+      ],
+      "stalest": [
+        3.9370659722222223,
+        0.10192778397996054
+      ],
+      "flooded_first": [
+        5.2085503472222205,
+        0.14750545479477936
+      ],
+      "forecast": [
+        4.529079861111111,
+        0.13966186491604188
+      ],
+      "greedy_unc": [
+        6.967664930555555,
+        0.17823943583898216
+      ],
+      "oracle": [
+        17.682725694444443,
+        0.34128023291912346
+      ]
+    },
+    "n_episodes_used": 192,
+    "n_episodes_no_flood": 0
+  },
+  "err_fnw10": {
+    "spearman_episode_level": 0.7588721743958835,
+    "spearman_policy_level": 1.0,
+    "policy_means_return_iou": {
+      "random": [
+        21.553168402777782,
+        0.089456503101015
+      ],
+      "stalest": [
+        27.23546006944445,
+        0.10192778397996054
+      ],
+      "flooded_first": [
+        31.39474826388889,
+        0.14750545479477936
+      ],
+      "forecast": [
+        29.20833333333334,
+        0.13966186491604188
+      ],
+      "greedy_unc": [
+        35.66948784722223,
+        0.17823943583898216
+      ],
+      "oracle": [
+        62.786241319444436,
+        0.34128023291912346
+      ]
+    },
+    "n_episodes_used": 192,
+    "n_episodes_no_flood": 0
+  },
+  "err_fnw30": {
+    "spearman_episode_level": 0.7116771149909081,
+    "spearman_policy_level": 1.0,
+    "policy_means_return_iou": {
+      "random": [
+        73.27191840277777,
+        0.089456503101015
+      ],
+      "stalest": [
+        93.80230034722223,
+        0.10192778397996054
+      ],
+      "flooded_first": [
+        106.21245659722223,
+        0.14750545479477936
+      ],
+      "forecast": [
+        99.7204861111111,
+        0.13966186491604188
+      ],
+      "greedy_unc": [
+        117.67469618055554,
+        0.17823943583898216
+      ],
+      "oracle": [
+        191.6534288194444,
+        0.34128023291912346
+      ]
+    },
+    "n_episodes_used": 192,
+    "n_episodes_no_flood": 0
+  },
+  "iou_diff": {
+    "spearman_episode_level": 0.4877938988568305,
+    "spearman_policy_level": -0.08571428571428573,
+    "policy_means_return_iou": {
+      "random": [
+        -71.8219128496741,
+        0.089456503101015
+      ],
+      "stalest": [
+        -72.82429050459692,
+        0.10192778397996054
+      ],
+      "flooded_first": [
+        -122.664317165756,
+        0.14750545479477936
+      ],
+      "forecast": [
+        -110.27548612296417,
+        0.13966186491604188
+      ],
+      "greedy_unc": [
+        -116.92130023607277,
+        0.17823943583898216
+      ],
+      "oracle": [
+        -21.635866167315708,
+        0.34128023291912346
+      ]
+    },
+    "n_episodes_used": 192,
+    "n_episodes_no_flood": 0
+  },
+  "split": "val",
+  "provenance": {
+    "timestamp_utc": "2026-10-20T10:09:09Z",
+    "python": "3.12.6",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+    "numpy": "2.5.4",
+    "torch": "2.5.1+cu124",
+    "cuda": "12.4",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "git_commit": null
+  }
+}

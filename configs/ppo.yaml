@@ -1,0 +1,14 @@
+# PPO settings. gamma/lr/ent_coef/epochs selected on VALIDATION by scripts/pick_sweep.py (sweep tag 'g90_lr1e3_e8', results/ppo_sweep.json)
+num_envs: 16
+total_steps: 1500000
+lr: 0.001
+gamma: 0.9
+gae_lambda: 0.95
+clip: 0.2
+ent_coef: 0.003
+vf_coef: 0.5
+epochs: 8
+minibatches: 4
+max_grad_norm: 0.5
+eval_every: 25
+n_val_episodes: 32

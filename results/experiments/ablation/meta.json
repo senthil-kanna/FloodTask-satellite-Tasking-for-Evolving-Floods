@@ -1,0 +1,87 @@
+{
+  "tag": "ablation",
+  "env_kw": {},
+  "spec_kw": {
+    "n": 380
+  },
+  "baselines": [],
+  "rl_variants": [
+    "recurrent_noforecast",
+    "recurrent_unc",
+    "recurrent_iou"
+  ],
+  "rl_seeds_found": [
+    [
+      "recurrent_iou",
+      0
+    ],
+    [
+      "recurrent_iou",
+      1
+    ],
+    [
+      "recurrent_iou",
+      2
+    ],
+    [
+      "recurrent_iou",
+      3
+    ],
+    [
+      "recurrent_iou",
+      4
+    ],
+    [
+      "recurrent_noforecast",
+      0
+    ],
+    [
+      "recurrent_noforecast",
+      1
+    ],
+    [
+      "recurrent_noforecast",
+      2
+    ],
+    [
+      "recurrent_noforecast",
+      3
+    ],
+    [
+      "recurrent_noforecast",
+      4
+    ],
+    [
+      "recurrent_unc",
+      0
+    ],
+    [
+      "recurrent_unc",
+      1
+    ],
+    [
+      "recurrent_unc",
+      2
+    ],
+    [
+      "recurrent_unc",
+      3
+    ],
+    [
+      "recurrent_unc",
+      4
+    ]
+  ],
+  "n_episodes": 5700,
+  "provenance": {
+    "timestamp_utc": "2026-10-23T19:36:54Z",
+    "python": "3.12.6",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+    "numpy": "2.5.4",
+    "torch": "2.5.1+cu124",
+    "cuda": "12.4",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "git_commit": null
+  }
+}
